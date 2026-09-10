@@ -72,44 +72,12 @@ The project processes five major E-Commerce datasets:
                                   ▼
                          📊 POWER BI
                     Interactive Dashboard
-</p>
 
 ---
 
-## 📌 Project Overview
 
-This project demonstrates an **end-to-end E-Commerce Data Analytics solution** built using Microsoft Azure.
 
-The project processes five E-Commerce datasets:
-
-- 👥 Customers
-- 📦 Products
-- 🛒 Orders
-- 🧾 Order Items
-- 💳 Payments
-
-The complete solution follows the below flow:
-
-**Source Data → Azure Data Factory → ADLS Gen2 → Azure Databricks → Azure Synapse Analytics → Power BI**
-
-The objective of this project is to transform raw E-Commerce data into clean, structured, business-ready data and generate meaningful business insights.
-
----
-
-# 🏗️ Project Architecture
-
-![E-Commerce Architecture](Architecture/ECommerce_Architecture.png)
-
-## 🔄 End-to-End Data Flow
-
-```text
-                    🛒 E-COMMERCE SOURCE DATA
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-    
-
-# ☁️ Azure Services Used
+## ☁️ Azure Services Used
 
 | Service | Purpose |
 |---|---|
@@ -380,7 +348,7 @@ RAW Layer
 
 ## 📸 Azure Data Factory Screenshot
 
-![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
+![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/03.Azure%20Data%20Factory/ADF_Pipline_Run_Success_screenshot.PNG)  
 
 
 ---
