@@ -50,79 +50,22 @@ The project uses five E-Commerce datasets.
 
 ## 👥 Customers
 
-Customer-related information.
-
-```text
-customer_id
-customer_name
-email
-city
-state
-signup_date
-customer_segment
-```
-
----
 
 ## 📦 Products
 
-Product-related information.
 
-```text
-product_id
-product_name
-category
-subcategory
-brand
-unit_price
-cost_price
-```
-
----
 
 ## 🛒 Orders
 
-Order-level information.
 
-```text
-order_id
-customer_id
-order_date
-order_status
-payment_method
-shipping_city
-shipping_state
-```
-
----
 
 ## 🧾 Order Items
 
-Product-level order information.
 
-```text
-order_item_id
-order_id
-product_id
-quantity
-discount
-```
-
----
 
 ## 💳 Payments
 
-Payment-related information.
 
-```text
-payment_id
-order_id
-payment_date
-payment_status
-payment_amount
-```
-
----
 
 # 🚀 STEP 1 — Create Azure Storage Account
 
@@ -301,7 +244,7 @@ RAW Layer
 
 ---
 
-## 📸 Azure Data Pipeline Success Run
+## 📸 Azure Data Pipeline Run-Success
 
 ![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/03.Azure%20Data%20Factory/ADF_Pipline_Run_Success_screenshot.PNG)  
 
@@ -562,16 +505,6 @@ The final business-ready data was visualized using Power BI.
 
 # 🛠️ Technology Stack
 
-## ☁️ Azure Services Used
-
-| Service | Purpose |
-|---|---|
-| 🔷 Azure Data Factory | Data ingestion and orchestration |
-| 🗄️ Azure Data Lake Storage Gen2 | Centralized data storage |
-| ⚡ Azure Databricks | Data cleaning and transformation |
-| 🔵 Azure Synapse Analytics | SQL analytics |
-| 📊 Power BI | Data visualization and reporting |
-
 
 | Technology | Usage |
 |---|---|
@@ -613,44 +546,6 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Azure-ECommerce-Data-Analytics/
-│
-├── README.md
-│
-├── Architecture/
-│   └── ECommerce_Architecture.png
-│
-├── ADF/
-│   ├── ADF_All_Pipelines.png
-│   ├── ADF_Copy_Activity.png
-│   └── ADF_Pipeline_Run_Success.png
-│
-├── Databricks/
-│   ├── 01_Data_Quality_Cleaning.py
-│   └── 02_ECommerce_Transformation.py
-│
-├── Synapse/
-│   └── Synapse_SQL_Views.sql
-│
-├── PowerBI/
-│   ├── ECommerce_Dashboard.pbix
-│   └── ECommerce_Dashboard.png
-│
-└── Screenshots/
-    ├── ADLS_RAW_Layer.png
-    ├── ADLS_CLEAN_Layer.png
-    ├── ADLS_CURATED_Layer.png
-    ├── Databricks_Notebooks.png
-    └── Synapse_Views.png
-```
-
----
-
-
----
 
 # 💡 Business Insights
 
@@ -738,12 +633,5 @@ The project covers:
 
 **Data Analyst | SQL | Power BI | Azure | Data Analytics**
 
-🐙 GitHub:  
-https://github.com/jha22sumit
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/sumit-kumar-148566220/
-
----
 
 ⭐ If you find this project useful, please consider giving the repository a star!
