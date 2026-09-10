@@ -28,6 +28,9 @@ The project processes five major E-Commerce datasets:
 
 # 🏗️ End-to-End Architecture
 
+![image alt](https://github.com/)  
+
+
 ```text
                          🛒 E-COMMERCE SOURCE DATA
                                   │
@@ -377,7 +380,8 @@ RAW Layer
 
 ## 📸 Azure Data Factory Screenshot
 
-![ADF Pipelines](ADF/ADF_All_Pipelines.png)
+![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
+
 
 ---
 
@@ -432,16 +436,6 @@ df = df.dropDuplicates()
 
 Important columns were checked for NULL values.
 
-Examples:
-
-```text
-customer_id
-product_id
-order_id
-quantity
-unit_price
-cost_price
-```
 
 ---
 
@@ -449,48 +443,22 @@ cost_price
 
 Date fields were converted into appropriate date format.
 
-Examples:
 
-```text
-order_date
-signup_date
-payment_date
+
 ```
 
 ---
 
 ## 🔢 Numeric Validation
 
-Numeric fields were validated.
-
-Examples:
-
-```text
-quantity
-unit_price
-cost_price
-discount
-payment_amount
+Numeric fields were validated
 ```
 
----
 
 ## ✂️ Text Cleaning
 
 Text fields were cleaned and trimmed where required.
 
-Examples:
-
-```text
-customer_name
-product_name
-category
-brand
-city
-state
-```
-
----
 
 # 🧹 Customers Data Cleaning
 
@@ -634,196 +602,7 @@ product_id
 
 ---
 
-# 🧮 Business Calculations
 
-The following business calculations were created using PySpark.
-
-## 💰 Gross Sales
-
-```text
-Gross Sales = Quantity × Unit Price
-```
-
----
-
-## 🏷️ Discount Amount
-
-```text
-Discount Amount = Gross Sales × Discount
-```
-
-The discount values were stored as decimals:
-
-```text
-0
-0.05
-0.10
-0.15
-0.20
-```
-
----
-
-## 💵 Net Sales
-
-```text
-Net Sales = Gross Sales - Discount Amount
-```
-
----
-
-## 💸 Total Cost
-
-```text
-Total Cost = Quantity × Cost Price
-```
-
----
-
-## 📈 Profit
-
-```text
-Profit = Net Sales - Total Cost
-```
-
----
-
-## 📊 Profit Margin
-
-```text
-Profit Margin = Profit / Net Sales
-```
-
----
-
-# 📊 Final Business Dataset
-
-The final transformed dataset contains fields such as:
-
-```text
-customer_id
-product_id
-order_id
-order_date
-order_status
-payment_method
-shipping_city
-shipping_state
-
-order_item_id
-quantity
-discount
-
-product_name
-category
-subcategory
-brand
-unit_price
-cost_price
-
-gross_sales
-discount_amount
-net_sales
-total_cost
-profit
-profit_margin
-
-customer_name
-email
-city
-state
-signup_date
-customer_segment
-```
-
-The final business-ready dataset was stored in the CURATED layer.
-
----
-
-# 💎 Curated Analytical Datasets
-
-The following datasets were created for analytics.
-
-## 💰 Sales Summary
-
-Contains overall business KPIs.
-
-```text
-total_gross_sales
-total_discount
-total_net_sales
-total_cost
-total_profit
-total_orders
-total_customers
-total_products
-```
-
----
-
-## 📅 Monthly Sales
-
-Contains monthly performance metrics.
-
-```text
-year
-month
-total_sales
-total_profit
-total_orders
-```
-
----
-
-## 📦 Product Summary
-
-Contains product-level performance.
-
-```text
-product_id
-product_name
-category
-subcategory
-brand
-units_sold
-total_sales
-total_profit
-total_orders
-```
-
----
-
-## 👥 Customer Summary
-
-Contains customer-level performance.
-
-```text
-customer_id
-customer_name
-customer_segment
-city
-state
-total_orders
-total_units
-total_sales
-total_profit
-```
-
----
-
-## 🏷️ Category Summary
-
-Contains category-level performance.
-
-```text
-category
-units_sold
-total_sales
-total_profit
-total_orders
-```
-
----
 
 # 🚀 STEP 7 — Azure Synapse Analytics
 
@@ -851,353 +630,12 @@ Synapse provides a structured analytics layer between the Data Lake and Power BI
 
 The final business-ready data was visualized using Power BI.
 
-![E-Commerce Dashboard](PowerBI/ECommerce_Dashboard.png)
-
----
-
-# 🎯 Dashboard KPI Cards
-
-The dashboard includes the following KPIs:
-
-## 💰 Total Sales
-
-Shows total Net Sales.
-
----
-
-## 📈 Total Profit
-
-Shows total Profit.
-
----
-
-## 🛒 Total Orders
-
-Shows the number of unique orders.
-
----
-
-## 👥 Total Customers
-
-Shows the number of unique customers.
-
----
-
-## 🧾 Average Order Value
-
-```text
-Average Order Value =
-Total Sales / Total Orders
-```
-
----
-
-## 📊 Profit Margin
-
-```text
-Profit Margin =
-Total Profit / Total Sales
-```
-
----
-
-# 📈 Power BI Dashboard Visuals
-
-## 📅 Monthly Sales and Profit Trend
-
-Shows:
-
-- Monthly Sales
-- Monthly Profit
-
-This visual helps identify business trends over time.
-
----
-
-## 🏷️ Sales by Category
-
-Shows total sales by product category.
-
----
-
-## 🏆 Top 5 Products by Sales
-
-Displays the top five products based on Total Sales.
-
-The visual can show:
-
-```text
-Product Name
-Total Sales
-Total Profit
-```
-
----
-
-## 👥 Top 5 Customers by Sales
-
-Displays the top five customers based on Total Sales.
-
-The visual can show:
-
-```text
-Customer Name
-Total Sales
-Total Profit
-```
-
----
-
-## 📍 Sales by State
-
-Shows sales performance by shipping state.
-
----
-
-## 📦 Order Status Breakdown
-
-Shows orders based on order status.
-
-Example:
-
-```text
-Delivered
-Shipped
-Processing
-Cancelled
-Returned
-```
-
----
-
-## 📋 Order Details Table
-
-Displays detailed transactional information.
-
-```text
-Order ID
-Order Date
-Customer Name
-Product Name
-Category
-Quantity
-Net Sales
-Profit
-Order Status
-```
-
----
-
-# 🎛️ Dashboard Filters
-
-Interactive filters can be used for:
-
-```text
-📅 Date
-📅 Year
-🏷️ Category
-👥 Customer Segment
-📍 State
-```
-
----
-
-# 🧮 Power BI DAX Measures
-
-> Replace `Ecommerce_Sales` with your actual Power BI table name.
-
-## 💰 Total Sales
-
-```DAX
-Total Sales =
-SUM(Ecommerce_Sales[net_sales])
-```
-
----
-
-## 📈 Total Profit
-
-```DAX
-Total Profit =
-SUM(Ecommerce_Sales[profit])
-```
-
----
-
-## 🛒 Total Orders
-
-```DAX
-Total Orders =
-DISTINCTCOUNT(Ecommerce_Sales[order_id])
-```
-
----
-
-## 👥 Total Customers
-
-```DAX
-Total Customers =
-DISTINCTCOUNT(Ecommerce_Sales[customer_id])
-```
-
----
-
-## 🧾 Average Order Value
-
-```DAX
-Average Order Value =
-DIVIDE(
-    [Total Sales],
-    [Total Orders],
-    0
+![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
 )
-```
 
 ---
 
-## 📊 Profit Margin
 
-```DAX
-Profit Margin =
-DIVIDE(
-    [Total Profit],
-    [Total Sales],
-    0
-)
-```
-
----
-
-# 📅 Current Year vs Previous Year Analysis
-
-A Date Table can be used for Year-over-Year analysis.
-
-## 📆 Previous Year Sales
-
-```DAX
-Previous Year Sales =
-CALCULATE(
-    [Total Sales],
-    DATEADD(
-        DateTable[Date],
-        -1,
-        YEAR
-    )
-)
-```
-
----
-
-## 📈 YoY Sales Growth %
-
-```DAX
-YoY Sales Growth % =
-DIVIDE(
-    [Total Sales] - [Previous Year Sales],
-    [Previous Year Sales],
-    0
-)
-```
-
----
-
-## 📆 Previous Year Profit
-
-```DAX
-Previous Year Profit =
-CALCULATE(
-    [Total Profit],
-    DATEADD(
-        DateTable[Date],
-        -1,
-        YEAR
-    )
-)
-```
-
----
-
-## 📈 YoY Profit Growth %
-
-```DAX
-YoY Profit Growth % =
-DIVIDE(
-    [Total Profit] - [Previous Year Profit],
-    [Previous Year Profit],
-    0
-)
-```
-
----
-
-# 🏆 Top 5 Products by Sales
-
-The Top N filter can be configured in Power BI.
-
-```text
-Product Name
-      ↓
-Top N
-      ↓
-5
-      ↓
-By Total Sales
-```
-
-The visual can display:
-
-```text
-Product Name
-Total Sales
-Total Profit
-```
-
----
-
-# 👥 Top 5 Customers by Sales
-
-The Top N filter can also be configured for customers.
-
-```text
-Customer Name
-      ↓
-Top N
-      ↓
-5
-      ↓
-By Total Sales
-```
-
----
-
-# 🎨 Dashboard Color Palette
-
-The dashboard uses a professional corporate color scheme.
-
-```text
-🔵 Primary Blue
-#1565C0
-
-🟦 Light Blue
-#EAF4FF
-
-🌑 Dark Navy
-#0B1F3A
-
-🟢 Profit Green
-#00A67E
-
-🟠 Highlight Orange
-#F59E0B
-
-🔴 Negative / Warning
-#E74C3C
-
-⚪ White
-#FFFFFF
-```
-
----
 
 # 🛠️ Technology Stack
 
@@ -1277,19 +715,6 @@ Azure-ECommerce-Data-Analytics/
 
 ---
 
-# 🔐 Security
-
-No sensitive information is included in this repository.
-
-The following should never be uploaded:
-
-- 🚫 Storage Account Keys
-- 🚫 Access Keys
-- 🚫 Passwords
-- 🚫 Tokens
-- 🚫 Client Secrets
-- 🚫 Credentials
-- 🚫 Connection Strings
 
 ---
 
