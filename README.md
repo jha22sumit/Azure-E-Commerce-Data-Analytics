@@ -73,7 +73,7 @@ The project processes five major E-Commerce datasets:
                          📊 POWER BI
                     Interactive Dashboard
 
----
+
 
 
 
@@ -87,7 +87,7 @@ The project processes five major E-Commerce datasets:
 | 🔵 Azure Synapse Analytics | SQL analytics |
 | 📊 Power BI | Data visualization and reporting |
 
----
+
 
 # 📂 Source Datasets
 
