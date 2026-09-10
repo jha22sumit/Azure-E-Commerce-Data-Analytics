@@ -329,7 +329,7 @@ The datasets were joined to create a unified E-Commerce analytical dataset.
 
 ## 🔗 Dataset Join Flow
 ---
-
+```text
 👥 Customers
        │
        │ customer_id
@@ -343,7 +343,7 @@ The datasets were joined to create a unified E-Commerce analytical dataset.
        │ product_id
        ▼
 📦 Products
-
+```
 ---
 Customer information was connected using:
 
