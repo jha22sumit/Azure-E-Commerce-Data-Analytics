@@ -1,5 +1,3 @@
-# Azure-E-Commerce-Data-Analytics
-End-to-End E-Commerce Data Analytics Pipeline using Azure Data Factory, ADLS Gen2, Databricks, Synapse Analytics and Power BI.
 
 # 🛒 Azure E-Commerce Data Analytics
 
@@ -25,12 +23,6 @@ The project processes five major E-Commerce datasets:
 - 🛒 Orders
 - 🧾 Order Items
 - 💳 Payments
-
-The complete solution covers:
-
-**Data Ingestion → Data Lake → Data Cleaning → Data Transformation → SQL Analytics → Power BI Reporting**
-
-The objective is to transform raw E-Commerce data into a **clean, business-ready analytical dataset** and generate meaningful business insights through Power BI.
 
 ---
 
@@ -77,28 +69,6 @@ The objective is to transform raw E-Commerce data into a **clean, business-ready
                                   ▼
                          📊 POWER BI
                     Interactive Dashboard
-
-
-☁️ Azure Resources
-
-The following Azure resources were created for the project:
-
-🔧 Resource	📌 Name	🎯 Purpose
-📁 Resource Group	rg-ecommerce-data	Project resource management
-🗄️ Storage Account	stecommercedatalake2026	ADLS Gen2 storage
-🔷 Data Factory	adf-ecommerce-ingestion	Data ingestion
-⚡ Databricks Workspace	dbw-ecommerce-analytics	Data processing
-🔵 Synapse Workspace	syn-ecommerce-analytics	SQL analytics
-📊 Power BI	E-Commerce Dashboard	Business reporting
-
-# 🛒 Azure E-Commerce Data Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-ETL-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Databricks-PySpark-FF3621?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Synapse-SQL-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -134,45 +104,7 @@ The objective of this project is to transform raw E-Commerce data into clean, st
                               │
         ┌─────────────────────┼─────────────────────┐
         │                     │                     │
-    👥 Customers          📦 Products          🛒 Orders
-        │                     │                     │
-        └─────────────────────┼─────────────────────┘
-                              │
-                       🧾 Order Items
-                              │
-                        💳 Payments
-                              │
-                              ▼
-                  🔷 AZURE DATA FACTORY
-                     Data Ingestion
-                              │
-                              ▼
-                   🗄️ ADLS GEN2 - RAW
-                              │
-                              ▼
-                    ⚡ AZURE DATABRICKS
-                  Data Quality & Cleaning
-                              │
-                              ▼
-                  🧹 ADLS GEN2 - CLEAN
-                              │
-                              ▼
-                    ⚡ AZURE DATABRICKS
-                Business Transformations
-                              │
-                              ▼
-                 💎 ADLS GEN2 - CURATED
-                              │
-                              ▼
-                 🔵 AZURE SYNAPSE ANALYTICS
-                       SQL Analytics
-                              │
-                              ▼
-                        📊 POWER BI
-                    Interactive Dashboard
-```
-
----
+    
 
 # ☁️ Azure Services Used
 
