@@ -328,7 +328,7 @@ After data cleaning, all datasets were loaded from the CLEAN layer.
 The datasets were joined to create a unified E-Commerce analytical dataset.
 
 ## 🔗 Dataset Join Flow
-```text
+---
 
 👥 Customers
        │
@@ -343,7 +343,7 @@ The datasets were joined to create a unified E-Commerce analytical dataset.
        │ product_id
        ▼
 📦 Products
-```
+
 ---
 Customer information was connected using:
 
@@ -353,15 +353,13 @@ customer_id
 
 Orders and Order Items were connected using:
 
-```text
+
 order_id
-```
 
 Products were connected using:
 
-```text
+
 product_id
-```
 
 ---
 
