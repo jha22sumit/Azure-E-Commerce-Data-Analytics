@@ -329,7 +329,7 @@ The datasets were joined to create a unified E-Commerce analytical dataset.
 
 ## 🔗 Dataset Join Flow
 
-```text
+
 👥 Customers
        │
        │ customer_id
@@ -347,9 +347,9 @@ The datasets were joined to create a unified E-Commerce analytical dataset.
 
 Customer information was connected using:
 
-```text
+
 customer_id
-```
+
 
 Orders and Order Items were connected using:
 
@@ -394,7 +394,7 @@ Synapse provides a structured analytics layer between the Data Lake and Power BI
 The final business-ready data was visualized using Power BI.
 
 ![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/06.POWERBI/E-Commerce_Sales_analytics_dashboard_screenshot.PNG)  
-)
+
 
 ---
 
