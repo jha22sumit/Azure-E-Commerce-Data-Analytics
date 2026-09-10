@@ -28,7 +28,7 @@ The project processes five major E-Commerce datasets:
 
 # 🏗️ End-to-End Architecture
 
-![image alt](https://github.com/)  
+![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/01.%20ARCHITECTURE/architecture%20flow%20of%20e-commerce%20project.png)  
 
 
 ```text
