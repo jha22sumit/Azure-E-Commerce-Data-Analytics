@@ -346,7 +346,7 @@ RAW Layer
 
 ---
 
-## 📸 Azure Data Factory Screenshot
+## 📸 Azure Data Pipeline Success Run
 
 ![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/03.Azure%20Data%20Factory/ADF_Pipline_Run_Success_screenshot.PNG)  
 
@@ -598,7 +598,7 @@ Synapse provides a structured analytics layer between the Data Lake and Power BI
 
 The final business-ready data was visualized using Power BI.
 
-![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
+![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/06.POWERBI/E-Commerce_Sales_analytics_dashboard_screenshot.PNG)  
 )
 
 ---
@@ -606,6 +606,17 @@ The final business-ready data was visualized using Power BI.
 
 
 # 🛠️ Technology Stack
+
+## ☁️ Azure Services Used
+
+| Service | Purpose |
+|---|---|
+| 🔷 Azure Data Factory | Data ingestion and orchestration |
+| 🗄️ Azure Data Lake Storage Gen2 | Centralized data storage |
+| ⚡ Azure Databricks | Data cleaning and transformation |
+| 🔵 Azure Synapse Analytics | SQL analytics |
+| 📊 Power BI | Data visualization and reporting |
+
 
 | Technology | Usage |
 |---|---|
