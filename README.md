@@ -31,51 +31,6 @@ The project processes five major E-Commerce datasets:
 ![image alt](https://github.com/jha22sumit/Azure-E-Commerce-Data-Analytics/blob/main/01.%20ARCHITECTURE/architecture%20flow%20of%20e-commerce%20project.png)  
 
 
-```text
-                         🛒 E-COMMERCE SOURCE DATA
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-          👥 Customers        📦 Products         🛒 Orders
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                           🧾 Order Items
-                                  │
-                            💳 Payments
-                                  │
-                                  ▼
-                    🔷 AZURE DATA FACTORY
-                       Data Ingestion
-                                  │
-                                  ▼
-                   🗄️ ADLS GEN2 - RAW
-                                  │
-                                  ▼
-                    ⚡ AZURE DATABRICKS
-                   Data Quality & Cleaning
-                                  │
-                                  ▼
-                  🧹 ADLS GEN2 - CLEAN
-                                  │
-                                  ▼
-                    ⚡ AZURE DATABRICKS
-                Business Logic & Transformation
-                                  │
-                                  ▼
-                 💎 ADLS GEN2 - CURATED
-                                  │
-                                  ▼
-                  🔵 AZURE SYNAPSE ANALYTICS
-                     SQL Analytics Layer
-                                  │
-                                  ▼
-                         📊 POWER BI
-                    Interactive Dashboard
-
-
-
-
 
 ## ☁️ Azure Services Used
 
