@@ -292,11 +292,7 @@ The following data quality operations were performed.
 
 Duplicate records were checked and removed where required.
 
-```python
-df = df.dropDuplicates()
-```
 
----
 
 ## ❌ NULL Value Check
 
@@ -326,103 +322,6 @@ Numeric fields were validated
 Text fields were cleaned and trimmed where required.
 
 
-# 🧹 Customers Data Cleaning
-
-The Customers dataset was processed using the following steps:
-
-- Remove duplicate records
-- Validate customer_id
-- Check NULL values
-- Clean text fields
-- Validate customer information
-
-Output:
-
-```text
-clean/customers/
-```
-
----
-
-# 🧹 Products Data Cleaning
-
-The Products dataset was processed using:
-
-- Remove duplicate records
-- Validate product_id
-- Validate unit_price
-- Validate cost_price
-- Check NULL values
-- Clean category
-- Clean brand
-
-Output:
-
-```text
-clean/products/
-```
-
----
-
-# 🧹 Orders Data Cleaning
-
-The Orders dataset was processed using:
-
-- Remove duplicate records
-- Validate order_id
-- Validate customer_id
-- Convert order_date
-- Clean order_status
-- Clean payment_method
-- Clean shipping_city
-- Clean shipping_state
-
-Output:
-
-```text
-clean/orders/
-```
-
----
-
-# 🧹 Order Items Data Cleaning
-
-The Order Items dataset was processed using:
-
-- Remove duplicate records
-- Validate order_item_id
-- Validate order_id
-- Validate product_id
-- Validate quantity
-- Validate discount
-- Remove invalid records
-
-Output:
-
-```text
-clean/order-items/
-```
-
----
-
-# 🧹 Payments Data Cleaning
-
-The Payments dataset was processed using:
-
-- Remove duplicate records
-- Validate payment_id
-- Validate order_id
-- Convert payment_date
-- Validate payment_amount
-- Clean payment_status
-
-Output:
-
-```text
-clean/payments/
-```
-
----
 
 # 🚀 STEP 6 — Data Transformation and Business Logic
 
