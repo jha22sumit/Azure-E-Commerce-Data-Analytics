@@ -307,12 +307,10 @@ Date fields were converted into appropriate date format.
 
 
 
-```
 
----
 
 ## 🔢 Numeric Validation
-
+---
 Numeric fields were validated
 ```
 
