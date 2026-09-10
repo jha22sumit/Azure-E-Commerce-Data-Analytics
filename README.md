@@ -77,3 +77,16 @@ The objective is to transform raw E-Commerce data into a **clean, business-ready
                                   ▼
                          📊 POWER BI
                     Interactive Dashboard
+
+
+☁️ Azure Resources
+
+The following Azure resources were created for the project:
+
+🔧 Resource	📌 Name	🎯 Purpose
+📁 Resource Group	rg-ecommerce-data	Project resource management
+🗄️ Storage Account	stecommercedatalake2026	ADLS Gen2 storage
+🔷 Data Factory	adf-ecommerce-ingestion	Data ingestion
+⚡ Databricks Workspace	dbw-ecommerce-analytics	Data processing
+🔵 Synapse Workspace	syn-ecommerce-analytics	SQL analytics
+📊 Power BI	E-Commerce Dashboard	Business reporting
