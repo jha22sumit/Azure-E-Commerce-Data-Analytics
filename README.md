@@ -1014,6 +1014,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
+
 # 📁 Repository Structure
 
 ```text
@@ -1022,28 +1023,35 @@ Azure-E-Commerce-Data-Analytics/
 ├── 01. ARCHITECTURE/
 │   └── architecture flow of e-commerce project.png
 │
-├── 02. ADLS GEN2/
-│   └── Storage Layer Screenshots
+├── 02.ADLS GEN 2/
+│   └── ADLS Gen2 Storage Screenshots
 │
-├── 03. Azure Data Factory/
+├── 03.Azure Data Factory/
 │   ├── ADF Pipeline Screenshots
 │   └── ADF_Pipline_Run_Success_screenshot.PNG
 │
-├── 04. AZURE DATABRICKS/
+├── 04.DATABRICKS/
 │   ├── 01_Data_Quality_Cleaning
 │   └── 02_ECommerce_Transformation
 │
-├── 05. AZURE SYNAPSE/
-│   └── SQL Queries
+├── 05.SYNAPSE/
+│   └── Synapse SQL Scripts and Screenshots
 │
-├── 06. POWERBI/
-│   ├── E-Commerce Dashboard
-│   └── E-Commerce_Sales_analytics_dashboard_screenshot.PNG
+├── 06.POWERBI/
+│   ├── Azure_E-Commerce_end_to_end_Powerbi_project.pbix
+│   ├── Azure_E-Commerce_schema_&Data_tables_screenshot.PNG
+│   ├── E-Commerce_Sales_analytics_dashboard_screenshot.PNG
+│   └── sample files/
+│
+├── 07.DATASET/
+│   ├── customers
+│   ├── products
+│   ├── orders
+│   ├── order-items
+│   └── payments
 │
 └── README.md
-```
 
-> 📌 Note: Update the folder names above if they are different from your actual GitHub repository folder names.
 
 ---
 
