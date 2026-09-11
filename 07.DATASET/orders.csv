@@ -1,0 +1,1202 @@
+order_id,customer_id,order_date,order_status,payment_method,shipping_city,shipping_state
+O50000,C1001,2025-11-30,Delivered,Net Banking,Delhi,Karnataka
+O50001,C1012,2025-09-01,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50002,C1065,2025-03-04,Delivered,Credit Card,Jaipur,Haryana
+O50003,C1265,2025-02-17,Delivered,Debit Card,Hyderabad,West Bengal
+O50004,C1137,2025-11-14,Returned,Credit Card,Chennai,Haryana
+O50005,C1212,2025-04-11,Delivered,COD,Delhi,Telangana
+O50006,C1123,2025-10-07,Delivered,Debit Card,Delhi,Karnataka
+O50007,C1051,2025-02-20,Cancelled,Credit Card,Delhi,Karnataka
+O50008,C1111,2025-04-13,Delivered,Debit Card,Noida,Tamil Nadu
+O50009,C1027,2025-04-14,Delivered,Net Banking,Lucknow,Rajasthan
+O50010,C1231,2025-04-13,Delivered,Credit Card,Chennai,Maharashtra
+O50011,C1055,2025-09-04,Delivered,COD,Jaipur,Gujarat
+O50012,C1112,2025-11-30,Shipped,Debit Card,Mumbai,Haryana
+O50013,C1294,2025-11-29,Delivered,Net Banking,Lucknow,Maharashtra
+O50014,C1177,2025-15-40,Cancelled,COD,Gurugram,Maharashtra
+O50015,C1137,2025-03-15,Cancelled,Debit Card,Ahmedabad,Uttar Pradesh
+O50016,C1162,2025-12-17,Cancelled,UPI,Delhi,Uttar Pradesh
+O50017,C1235,2025-07-17,Delivered,Net Banking,Delhi,Maharashtra
+O50018,C1076,2025-07-19,Delivered,UPI,Delhi,Karnataka
+O50019,C1190,2025-09-14,Cancelled,Debit Card,Jaipur,Rajasthan
+O50020,C1261,2025-10-08,Delivered,COD,Mumbai,Karnataka
+O50021,C1171,2025-12-14,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O50022,C1133,2025-08-01,Shipped,Net Banking,Bengaluru,West Bengal
+O50023,C1043,2025-08-11,Delivered,Debit Card,Jaipur,West Bengal
+O50024,C1074,2025-09-30,Shipped,Credit Card,Pune,Rajasthan
+O50025,C1283,2025-04-04,Cancelled,Credit Card,Delhi,Uttar Pradesh
+O50026,C1162,2025-04-23,Shipped,Debit Card,Pune,Karnataka
+O50027,C1090,2025-08-17,Delivered,UPI,Mumbai,Tamil Nadu
+O50028,C1125,2025-01-24,Cancelled,Debit Card,Kolkata,Haryana
+O50029,C1173,2025-04-27,Delivered,Debit Card,Jaipur,Uttar Pradesh
+O50030,C1161,2025-09-20,Shipped,COD,Noida,Uttar Pradesh
+O50031,C1209,2025-12-23,Shipped,UPI,Jaipur,Rajasthan
+O50032,C1077,2025-07-09,Shipped,COD,Delhi,Tamil Nadu
+O50033,C9999,2025-05-26,Delivered,Debit Card,Chennai,Maharashtra
+O50034,C1132,2025-06-10,Delivered,Net Banking,Pune,West Bengal
+O50035,C1282,2025-09-08,Delivered,Debit Card,Mumbai,West Bengal
+O50036,C1047,2025-07-18,Delivered,Credit Card,Bengaluru,Rajasthan
+O50037,C1044,2025-01-09,Delivered,COD,Mumbai,Gujarat
+O50038,C1138,2025-07-16,Delivered,Credit Card,Jaipur,Gujarat
+O50039,C1152,2025-05-27,Delivered,UPI,Lucknow,Haryana
+O50040,C1207,2025-09-13,Shipped,Net Banking,Jaipur,Rajasthan
+O50041,C1121,2025-11-16,Cancelled,Net Banking,Bengaluru,Maharashtra
+O50042,C1274,2025-12-18,Delivered,COD,Hyderabad,Maharashtra
+O50043,C1142,2025-08-11,Shipped,Debit Card,Bengaluru,Tamil Nadu
+O50044,C1038,2025-05-13,Delivered,UPI,Jaipur,Tamil Nadu
+O50045,C1035,2025-06-12,Delivered,UPI,Hyderabad,Karnataka
+O50046,C1292,2025-03-06,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O50047,C1040,2025-12-08,Shipped,Credit Card,Pune,Haryana
+O50048,C1284,2025-11-06,Returned,COD,Pune,Uttar Pradesh
+O50049,C1083,2025-11-08,Shipped,UPI,Hyderabad,Delhi
+O50050,C1028,2025-04-30,Cancelled,COD,Kolkata,Rajasthan
+O50051,C1091,2025-04-28,Returned,Credit Card,Bengaluru,Maharashtra
+O50052,C1184,2025-11-09,Delivered,UPI,Jaipur,Karnataka
+O50053,C1128,2025-07-18,Delivered,Credit Card,Jaipur,Tamil Nadu
+O50054,C1235,2025-09-15,Delivered,UPI,Bengaluru,Karnataka
+O50055,C1183,2025-06-28,Returned,Debit Card,Ahmedabad,Telangana
+O50056,C1120,2025-06-11,Delivered,Credit Card,Gurugram,Delhi
+O50057,C1190,2025-08-19,Delivered,Debit Card,Lucknow,Uttar Pradesh
+O50058,C1291,2025-10-24,Cancelled,Debit Card,Mumbai,Uttar Pradesh
+O50059,C1123,2025-05-02,Delivered,UPI,Hyderabad,Karnataka
+O50060,C1046,2025-10-23,Shipped,UPI,Mumbai,Haryana
+O50061,C1122,2025-03-31,Delivered,UPI,Bengaluru,Maharashtra
+O50062,C1252,2025-05-28,Returned,UPI,Pune,Maharashtra
+O50063,C1065,2025-11-30,Cancelled,UPI,Kolkata,Maharashtra
+O50064,C1284,2025-12-15,Delivered,Credit Card,Delhi,Maharashtra
+O50065,C1176,2025-12-04,Shipped,Debit Card,Ahmedabad,West Bengal
+O50066,C1180,2025-04-26,Delivered,Credit Card,Ahmedabad,Uttar Pradesh
+O50067,C1095,2025-11-04,Delivered,Credit Card,Hyderabad,Maharashtra
+O50068,C1276,2025-12-08,Delivered,Debit Card,Hyderabad,Karnataka
+O50069,C1010,2025-12-24,Shipped,Debit Card,Kolkata,Telangana
+O50070,C1089,2025-01-08,Delivered,Credit Card,Gurugram,Gujarat
+O50071,C1125,2025-09-29,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50072,C1143,2025-12-30,Delivered,Debit Card,Gurugram,Maharashtra
+O50073,C1142,2025-10-07,Delivered,UPI,Kolkata,Telangana
+O50074,C1044,2025-03-27,Delivered,Debit Card,Mumbai,Delhi
+O50075,C1067,2025-10-06,Delivered,COD,Kolkata,Tamil Nadu
+O50076,C1028,2025-02-08,Delivered,Credit Card,Jaipur,Uttar Pradesh
+O50077,C1171,2025-06-25,Cancelled,UPI,Gurugram,Delhi
+O50078,C1105,2025-08-17,Delivered,Net Banking,Chennai,West Bengal
+O50079,C1169,2025-06-16,Delivered,UPI,Bengaluru,Haryana
+O50080,C1176,2025-09-13,Returned,UPI,Mumbai,Karnataka
+O50081,C1210,2025-03-29,Delivered,UPI,Chennai,Uttar Pradesh
+O50082,C1164,2025-08-10,Shipped,COD,Lucknow,West Bengal
+O50083,C1194,2025-08-24,Delivered,COD,Delhi,Rajasthan
+O50084,C1176,2025-08-20,Cancelled,Debit Card,Lucknow,Telangana
+O50085,C1195,2025-04-16,Shipped,Net Banking,Ahmedabad,Gujarat
+O50086,C1184,2025-04-22,Cancelled,Net Banking,Hyderabad,Karnataka
+O50087,C1094,2025-04-05,Delivered,Net Banking,Chennai,Haryana
+O50088,C1073,2025-06-18,Delivered,Debit Card,Pune,Uttar Pradesh
+O50089,C1236,2025-08-02,Shipped,COD,Noida,Haryana
+O50090,C1102,2025-05-13,Delivered,Net Banking,Hyderabad,Haryana
+O50091,C1164,2025-05-30,Delivered,UPI,Jaipur,Maharashtra
+O50092,C1059,2025-04-15,Delivered,Credit Card,Gurugram,Haryana
+O50093,C1129,2025-03-21,Returned,COD,Kolkata,Tamil Nadu
+O50094,C1158,2025-08-28,Delivered,Debit Card,Kolkata,Uttar Pradesh
+O50095,C1187,2025-10-25,Delivered,Credit Card,Jaipur,Tamil Nadu
+O50096,C1157,2025-04-17,Shipped,COD,Pune,Maharashtra
+O50097,C1108,2025-11-11,Delivered,Net Banking,Pune,West Bengal
+O50098,C1288,2025-07-28,Delivered,Debit Card,Pune,Telangana
+O50099,C1153,2025-03-03,Delivered,Debit Card,Ahmedabad,Gujarat
+O50100,C1242,2025-05-14,Delivered,UPI,Ahmedabad,Karnataka
+O50101,C1221,2025-01-03,Delivered,Credit Card,Pune,Maharashtra
+O50102,C1167,2025-01-15,Cancelled,Debit Card,Lucknow,Tamil Nadu
+O50103,C1265,2025-05-03,Shipped,COD,Hyderabad,Tamil Nadu
+O50104,C1038,2025-06-15,Delivered,Credit Card,Pune,Karnataka
+O50105,C1276,2025-10-19,Delivered,UPI,Delhi,Telangana
+O50106,C1255,2025-02-19,Delivered,Debit Card,Chennai,Karnataka
+O50107,C1151,2025-11-03,Returned,COD,Chennai,Maharashtra
+O50108,C1220,2025-03-27,Cancelled,Debit Card,Lucknow,Maharashtra
+O50109,C1156,2025-02-20,Cancelled,Credit Card,Kolkata,Gujarat
+O50110,C1080,2025-09-13,Delivered,Net Banking,Delhi,West Bengal
+O50111,C1239,2025-10-10,Delivered,Net Banking,Hyderabad,Uttar Pradesh
+O50112,C1073,2025-08-09,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50113,C1094,2025-02-12,Delivered,COD,Bengaluru,West Bengal
+O50114,C1155,2025-02-12,Delivered,Debit Card,Bengaluru,Delhi
+O50115,C1251,2025-05-23,Delivered,UPI,Jaipur,West Bengal
+O50116,C1115,2025-06-14,Returned,Debit Card,Chennai,Tamil Nadu
+O50117,C1148,2025-12-31,Delivered,COD,Kolkata,Gujarat
+O50118,C1012,2025-04-15,Delivered,Credit Card,Bengaluru,Karnataka
+O50119,C1034,2025-03-12,Shipped,Debit Card,Mumbai,Telangana
+O50120,C1016,2025-12-12,Delivered,Net Banking,Hyderabad,Maharashtra
+O50121,C1021,2025-02-26,Shipped,Net Banking,Lucknow,Maharashtra
+O50122,C1260,2025-01-10,Delivered,COD,Chennai,Tamil Nadu
+O50123,C1252,2025-06-04,Cancelled,UPI,Kolkata,Rajasthan
+O50124,C1246,2025-05-27,Delivered,Debit Card,Noida,Gujarat
+O50125,C1016,2025-08-15,Delivered,Debit Card,Lucknow,Rajasthan
+O50126,C1023,2025-11-17,Delivered,UPI,Gurugram,Tamil Nadu
+O50127,C1084,2025-12-07,Delivered,Net Banking,Lucknow,Telangana
+O50128,C1169,2025-04-16,Delivered,UPI,Bengaluru,Maharashtra
+O50129,C1100,2025-12-24,Delivered,Debit Card,Lucknow,Rajasthan
+O50130,C1146,2025-08-19,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50131,C1051,2025-01-26,Shipped,UPI,Jaipur,Maharashtra
+O50132,C1219,2025-12-09,Delivered,COD,Ahmedabad,Gujarat
+O50133,C1094,2025-02-20,Delivered,Credit Card,Chennai,Tamil Nadu
+O50134,C1019,2025-08-03,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50135,C1222,2025-10-16,Cancelled,COD,Gurugram,Gujarat
+O50136,C1270,2025-04-02,Delivered,COD,Delhi,Uttar Pradesh
+O50137,C1004,2025-04-09,Delivered,UPI,Hyderabad,Maharashtra
+O50138,C1131,2025-06-23,Cancelled,Credit Card,Jaipur,Telangana
+O50139,C1248,2025-11-19,Delivered,Net Banking,Jaipur,Karnataka
+O50140,C1211,2025-03-23,Shipped,Net Banking,Hyderabad,West Bengal
+O50141,C1256,2025-08-31,Delivered,COD,Hyderabad,Uttar Pradesh
+O50142,C1124,2025-06-15,Delivered,Debit Card,Chennai,Telangana
+O50143,C1111,2025-02-10,Delivered,UPI,Ahmedabad,Rajasthan
+O50144,C1212,2025-09-17,Cancelled,COD,Ahmedabad,Tamil Nadu
+O50145,C1046,2025-10-31,Delivered,UPI,Noida,Gujarat
+O50146,C1071,2025-07-30,Delivered,UPI,Chennai,Maharashtra
+O50147,C1180,2025-03-06,Delivered,Net Banking,Pune,Maharashtra
+O50148,C1200,2025-02-26,Delivered,Net Banking,Jaipur,Karnataka
+O50149,C1035,2025-06-04,Delivered,UPI,Hyderabad,Uttar Pradesh
+O50150,C1152,2025-07-04,Delivered,UPI,Lucknow,Tamil Nadu
+O50151,C1109,2025-07-21,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O50152,C1150,2025-03-30,Delivered,Credit Card,Kolkata,Delhi
+O50153,C1287,2025-07-02,Delivered,Net Banking,Noida,Telangana
+O50154,C1022,2025-04-18,Delivered,Debit Card,Lucknow,Rajasthan
+O50155,C1298,2025-09-08,Delivered,Debit Card,Noida,Karnataka
+O50156,C1134,2025-10-18,Delivered,Debit Card,Pune,Telangana
+O50157,C1231,2025-08-27,Delivered,Credit Card,Ahmedabad,Rajasthan
+O50158,C1127,2025-01-01,Delivered,Credit Card,Lucknow,Telangana
+O50159,C1093,2025-12-29,Delivered,Net Banking,Bengaluru,Gujarat
+O50160,C1231,2025-01-09,Delivered,Debit Card,Bengaluru,Tamil Nadu
+O50161,C1206,2025-12-31,Delivered,Debit Card,Delhi,West Bengal
+O50162,C1043,2025-01-12,Shipped,Debit Card,Lucknow,Rajasthan
+O50163,C1211,2025-07-08,Delivered,Credit Card,Delhi,Tamil Nadu
+O50164,C1225,2025-02-08,Shipped,COD,Delhi,Delhi
+O50165,C1116,2025-02-04,Delivered,Debit Card,Bengaluru,Karnataka
+O50166,C1277,2025-09-07,Shipped,Net Banking,Delhi,Uttar Pradesh
+O50167,C1192,2025-09-23,Delivered,COD,Noida,Telangana
+O50168,C1100,2025-02-13,Delivered,COD,Chennai,Uttar Pradesh
+O50169,C1003,2025-12-23,Delivered,Net Banking,Kolkata,Telangana
+O50170,C1202,2025-04-27,Cancelled,Net Banking,Mumbai,Maharashtra
+O50171,C1062,2025-04-27,Delivered,Debit Card,Jaipur,Delhi
+O50172,C1226,2025-04-19,Delivered,Net Banking,Chennai,Uttar Pradesh
+O50173,C1157,2025-06-18,Delivered,Credit Card,Gurugram,Telangana
+O50174,C1140,2025-03-06,Shipped,Net Banking,Kolkata,Delhi
+O50175,C1049,2025-06-05,Delivered,UPI,Chennai,Gujarat
+O50176,C1213,2025-03-18,Delivered,COD,Jaipur,Rajasthan
+O50177,C1049,2025-01-19,Delivered,Credit Card,Noida,West Bengal
+O50178,C1125,2025-05-15,Cancelled,Net Banking,Gurugram,Haryana
+O50179,C1250,2025-09-03,Delivered,UPI,Mumbai,Rajasthan
+O50180,C1276,2025-10-06,Delivered,UPI,Pune,Tamil Nadu
+O50181,C1296,2025-05-09,Returned,COD,Ahmedabad,Maharashtra
+O50182,C1287,2025-04-29,Delivered,COD,Kolkata,Delhi
+O50183,C1166,2025-10-15,Delivered,Credit Card,Hyderabad,Telangana
+O50184,C1060,2025-09-06,Delivered,UPI,Hyderabad,Rajasthan
+O50185,C1251,2025-10-31,Delivered,COD,Ahmedabad,Delhi
+O50186,C1240,2025-11-27,Delivered,COD,Bengaluru,Delhi
+O50187,C1297,2025-10-27,Delivered,UPI,Gurugram,Maharashtra
+O50188,C1195,2025-12-08,Shipped,Net Banking,Noida,Telangana
+O50189,C1042,2025-06-02,Shipped,Credit Card,Mumbai,Karnataka
+O50190,C1150,2025-05-25,Delivered,Net Banking,Chennai,Karnataka
+O50191,C1134,2025-04-28,Delivered,Debit Card,Bengaluru,Maharashtra
+O50192,C1252,2025-03-27,Delivered,UPI,Bengaluru,Delhi
+O50193,C1117,2025-10-01,Returned,Credit Card,Bengaluru,Delhi
+O50194,C1098,2025-09-18,Delivered,Debit Card,Lucknow,Uttar Pradesh
+O50195,C1024,2025-10-20,Delivered,Net Banking,Lucknow,West Bengal
+O50196,C1250,2025-03-03,Delivered,UPI,Noida,Rajasthan
+O50197,C1226,2025-06-29,Delivered,COD,Noida,Karnataka
+O50198,C1012,2025-03-23,Delivered,Net Banking,Gurugram,Delhi
+O50199,C1130,2025-11-22,Shipped,COD,Ahmedabad,Maharashtra
+O50200,C1143,2025-04-08,Delivered,COD,Bengaluru,Uttar Pradesh
+O50201,C1140,2025-02-22,Cancelled,UPI,Ahmedabad,Haryana
+O50202,C1275,2025-07-28,Delivered,UPI,Chennai,Karnataka
+O50203,C1045,2025-11-17,Shipped,Net Banking,Hyderabad,Telangana
+O50204,C1091,2025-12-01,Cancelled,UPI,Mumbai,Maharashtra
+O50205,C1054,2025-02-05,Returned,UPI,Pune,Karnataka
+O50206,C1073,2025-04-29,Delivered,Debit Card,Noida,Karnataka
+O50207,C1272,2025-02-26,Delivered,COD,Hyderabad,Karnataka
+O50208,C1282,2025-04-23,Delivered,Net Banking,Mumbai,West Bengal
+O50209,C1013,2025-07-14,Delivered,Debit Card,Mumbai,Telangana
+O50210,C1189,2025-04-13,Delivered,UPI,Delhi,Delhi
+O50211,C1069,2025-01-25,Returned,Credit Card,Jaipur,Delhi
+O50212,C1057,2025-07-06,Returned,Net Banking,Lucknow,Maharashtra
+O50213,C1087,2025-01-20,Delivered,UPI,Bengaluru,Gujarat
+O50214,C1058,2025-03-24,Delivered,Debit Card,Hyderabad,Delhi
+O50215,C1147,2025-01-01,Cancelled,UPI,Lucknow,Delhi
+O50216,C1298,2025-02-01,Cancelled,Credit Card,Hyderabad,West Bengal
+O50217,C1175,2025-06-09,Delivered,Credit Card,Chennai,Karnataka
+O50218,C1216,2025-11-07,Delivered,Net Banking,Bengaluru,Haryana
+O50219,C1147,2025-10-10,Shipped,COD,Hyderabad,Haryana
+O50220,C1004,2025-02-06,Delivered,UPI,Hyderabad,Tamil Nadu
+O50221,C1025,2025-01-13,Delivered,Net Banking,Kolkata,Telangana
+O50222,C1080,2025-05-04,Returned,Net Banking,Chennai,Tamil Nadu
+O50223,C1073,2025-08-27,Returned,COD,Hyderabad,Maharashtra
+O50224,C1252,2025-09-30,Cancelled,COD,Delhi,Telangana
+O50225,C1253,2025-10-28,Shipped,UPI,Ahmedabad,Gujarat
+O50226,C1256,2025-05-05,Delivered,Net Banking,Ahmedabad,Maharashtra
+O50227,C1191,2025-03-03,Delivered,Debit Card,Gurugram,Maharashtra
+O50228,C1166,2025-01-10,Delivered,UPI,Mumbai,Uttar Pradesh
+O50229,C1194,2025-02-23,Delivered,Credit Card,Lucknow,Tamil Nadu
+O50230,C1122,2025-01-24,Delivered,COD,Mumbai,Delhi
+O50231,C1201,2025-11-11,Delivered,Debit Card,Jaipur,Haryana
+O50232,C1238,2025-04-08,Delivered,Credit Card,Jaipur,West Bengal
+O50233,C1228,2025-10-28,Shipped,Credit Card,Ahmedabad,Delhi
+O50234,C1184,2025-07-21,Delivered,COD,Delhi,Uttar Pradesh
+O50235,C1017,2025-07-16,Delivered,Credit Card,Bengaluru,Maharashtra
+O50236,C1217,2025-06-15,Delivered,UPI,Hyderabad,Maharashtra
+O50237,C1109,2025-10-27,Delivered,Debit Card,Ahmedabad,Telangana
+O50238,C1223,2025-01-16,Cancelled,COD,Gurugram,Tamil Nadu
+O50239,C1161,2025-02-03,Delivered,UPI,Mumbai,Karnataka
+O50240,C1264,2025-06-04,Delivered,Credit Card,Gurugram,Gujarat
+O50241,C1101,2025-05-24,Shipped,Debit Card,Jaipur,Uttar Pradesh
+O50242,C1279,2025-07-19,Delivered,UPI,Lucknow,Haryana
+O50243,C1253,2025-09-27,Delivered,Net Banking,Noida,West Bengal
+O50244,C1099,2025-08-03,Delivered,Credit Card,Gurugram,Maharashtra
+O50245,C1144,2025-04-04,Delivered,UPI,Mumbai,Uttar Pradesh
+O50246,C1159,2025-04-30,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50247,C1230,2025-10-02,Delivered,COD,Bengaluru,Maharashtra
+O50248,C1206,2025-03-15,Delivered,COD,Mumbai,West Bengal
+O50249,C1255,2025-07-04,Delivered,Debit Card,Mumbai,Rajasthan
+O50250,C1110,2025-07-16,Delivered,Debit Card,Chennai,Uttar Pradesh
+O50251,C1151,2025-10-01,Delivered,COD,Pune,Telangana
+O50252,C1129,2025-09-18,Cancelled,UPI,Noida,Maharashtra
+O50253,C1272,2025-06-19,Delivered,Net Banking,Jaipur,Tamil Nadu
+O50254,C1091,2025-04-23,Delivered,Net Banking,Bengaluru,Telangana
+O50255,C1176,2025-05-15,Delivered,Net Banking,Mumbai,Uttar Pradesh
+O50256,C1036,2025-05-31,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50257,C1255,2025-03-22,Delivered,Net Banking,Kolkata,Tamil Nadu
+O50258,C1115,2025-08-17,Shipped,Net Banking,Noida,West Bengal
+O50259,C1102,2025-03-18,Cancelled,COD,Delhi,Gujarat
+O50260,C1174,2025-08-25,Delivered,UPI,Delhi,Haryana
+O50261,C1149,2025-10-02,Delivered,Net Banking,Jaipur,West Bengal
+O50262,C1254,2025-12-18,Cancelled,COD,Chennai,Rajasthan
+O50263,C1159,2025-02-13,Delivered,Credit Card,Jaipur,Uttar Pradesh
+O50264,C1155,2025-10-05,Delivered,Net Banking,Chennai,Gujarat
+O50265,C1031,2025-02-01,Delivered,UPI,Pune,West Bengal
+O50266,C1006,2025-05-04,Delivered,Net Banking,Chennai,Maharashtra
+O50267,C1119,2025-03-06,Shipped,Net Banking,Kolkata,Karnataka
+O50268,C1299,2025-03-01,Delivered,UPI,Pune,Karnataka
+O50269,C1275,2025-03-06,Returned,UPI,Ahmedabad,Uttar Pradesh
+O50270,C1188,2025-01-17,Delivered,Net Banking,Ahmedabad,Uttar Pradesh
+O50271,C1189,2025-10-28,Delivered,Credit Card,Jaipur,Rajasthan
+O50272,C1117,2025-01-23,Delivered,Debit Card,Lucknow,Tamil Nadu
+O50273,C1053,2025-05-26,Delivered,UPI,Pune,Uttar Pradesh
+O50274,C1002,2025-09-13,Delivered,COD,Noida,Gujarat
+O50275,C1101,2025-12-28,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O50276,C1094,2025-11-08,Delivered,COD,Kolkata,Haryana
+O50277,C1057,2025-02-20,Delivered,UPI,Jaipur,Delhi
+O50278,C1077,2025-12-27,Delivered,Credit Card,Pune,Uttar Pradesh
+O50279,C1007,2025-08-27,Delivered,Net Banking,Mumbai,Karnataka
+O50280,C1182,2025-03-07,Delivered,Net Banking,Bengaluru,Haryana
+O50281,C1278,2025-06-13,Delivered,Net Banking,Jaipur,Delhi
+O50282,C1207,2025-12-02,Shipped,COD,Delhi,Maharashtra
+O50283,C1134,2025-05-24,Shipped,COD,Mumbai,West Bengal
+O50284,C1126,2025-03-09,Delivered,UPI,Gurugram,Uttar Pradesh
+O50285,C1092,2025-11-16,Delivered,Credit Card,Jaipur,Telangana
+O50286,C1042,2025-12-14,Delivered,COD,Bengaluru,Tamil Nadu
+O50287,C1179,2025-12-23,Delivered,Debit Card,Noida,Gujarat
+O50288,C1169,2025-12-15,Delivered,COD,Mumbai,Gujarat
+O50289,C1002,2025-11-15,Delivered,Debit Card,Delhi,Maharashtra
+O50290,C1124,2025-06-15,Delivered,UPI,Bengaluru,Uttar Pradesh
+O50291,C1083,2025-03-12,Delivered,Debit Card,Lucknow,Telangana
+O50292,C1051,2025-08-14,Delivered,COD,Hyderabad,Uttar Pradesh
+O50293,C1210,2025-03-22,Delivered,Net Banking,Ahmedabad,Uttar Pradesh
+O50294,C1157,2025-06-22,Shipped,UPI,Kolkata,Uttar Pradesh
+O50295,C1190,2025-08-28,Cancelled,Credit Card,Ahmedabad,Gujarat
+O50296,C1214,2025-12-12,Delivered,COD,Mumbai,West Bengal
+O50297,C1294,2025-04-16,Cancelled,COD,Lucknow,Haryana
+O50298,C1240,2025-04-02,Delivered,Net Banking,Gurugram,Gujarat
+O50299,C1186,2025-09-26,Cancelled,UPI,Bengaluru,Uttar Pradesh
+O50300,C1263,2025-01-03,Returned,Net Banking,Kolkata,West Bengal
+O50301,C1143,2025-07-26,Delivered,COD,Mumbai,Haryana
+O50302,C1295,2025-09-30,Shipped,Net Banking,Mumbai,Delhi
+O50303,C1228,2025-07-21,Returned,Debit Card,Noida,Rajasthan
+O50304,C1195,2025-05-21,Cancelled,Debit Card,Delhi,Gujarat
+O50305,C1270,2025-10-30,Returned,Credit Card,Hyderabad,Uttar Pradesh
+O50306,C1154,2025-05-16,Delivered,Credit Card,Lucknow,Uttar Pradesh
+O50307,C1216,2025-09-17,Delivered,Net Banking,Gurugram,Tamil Nadu
+O50308,C1085,2025-06-19,Cancelled,UPI,Bengaluru,Delhi
+O50309,C1288,2025-01-10,Delivered,UPI,Lucknow,West Bengal
+O50310,C1187,2025-07-13,Delivered,Credit Card,Jaipur,Gujarat
+O50311,C1234,2025-01-19,Delivered,Net Banking,Delhi,Rajasthan
+O50312,C1138,2025-12-06,Delivered,Net Banking,Hyderabad,Haryana
+O50313,C1260,2025-08-08,Delivered,Debit Card,Noida,Haryana
+O50314,C1022,2025-05-16,Shipped,Debit Card,Gurugram,West Bengal
+O50315,C1034,2025-06-27,Delivered,UPI,Gurugram,Delhi
+O50316,C1152,2025-08-15,Shipped,Credit Card,Chennai,Telangana
+O50317,C1219,2025-04-05,Cancelled,UPI,Gurugram,Karnataka
+O50318,C1242,2025-04-16,Delivered,Net Banking,Mumbai,West Bengal
+O50319,C1132,2025-06-02,Delivered,Net Banking,Gurugram,Haryana
+O50320,C1194,2025-04-05,Delivered,Credit Card,Pune,Rajasthan
+O50321,C1165,2025-10-04,Returned,Credit Card,Chennai,West Bengal
+O50322,C1288,2025-02-07,Shipped,Credit Card,Pune,Haryana
+O50323,C1196,2025-10-29,Delivered,COD,Mumbai,Maharashtra
+O50324,C1125,2025-05-08,Delivered,Debit Card,Hyderabad,Delhi
+O50325,C1290,2025-07-24,Delivered,Net Banking,Chennai,Karnataka
+O50326,C1032,2025-02-27,Delivered,Debit Card,Delhi,Maharashtra
+O50327,C1295,2025-05-21,Returned,Net Banking,Ahmedabad,Uttar Pradesh
+O50328,C1046,2025-10-03,Shipped,Debit Card,Ahmedabad,Telangana
+O50329,C1086,2025-04-09,Delivered,Credit Card,Chennai,Telangana
+O50330,C1246,2025-02-18,Cancelled,COD,Hyderabad,Uttar Pradesh
+O50331,C1220,2025-07-10,Delivered,Net Banking,Kolkata,Haryana
+O50332,C1291,2025-03-01,Cancelled,Net Banking,Bengaluru,Delhi
+O50333,C1224,2025-04-25,Delivered,COD,Pune,West Bengal
+O50334,C1191,2025-06-14,Delivered,Credit Card,Pune,Maharashtra
+O50335,C1103,2025-07-25,Cancelled,UPI,Noida,Delhi
+O50336,C1001,2025-08-22,Delivered,Debit Card,Ahmedabad,Haryana
+O50337,C1037,2025-09-04,Delivered,Credit Card,Mumbai,Uttar Pradesh
+O50338,C1089,2025-11-05,Returned,Debit Card,Mumbai,Maharashtra
+O50339,C1012,2025-01-25,Delivered,Credit Card,Lucknow,West Bengal
+O50340,C1152,2025-05-13,Delivered,Credit Card,Hyderabad,Karnataka
+O50341,C1233,2025-01-01,Delivered,Credit Card,Chennai,Haryana
+O50342,C1288,2025-01-04,Delivered,Credit Card,Gurugram,Maharashtra
+O50343,C1146,2025-03-19,Delivered,Net Banking,Mumbai,Delhi
+O50344,C1262,2025-08-07,Delivered,Debit Card,Kolkata,West Bengal
+O50345,C1295,2025-11-23,Shipped,Debit Card,Bengaluru,Maharashtra
+O50346,C1257,2025-10-10,Delivered,UPI,Noida,Karnataka
+O50347,C1139,2025-08-24,Delivered,Debit Card,Ahmedabad,Uttar Pradesh
+O50348,C1097,2025-10-12,Cancelled,UPI,Pune,Rajasthan
+O50349,C1293,2025-03-04,Delivered,Credit Card,Kolkata,Haryana
+O50350,C1072,2025-11-03,Cancelled,Debit Card,Pune,Telangana
+O50351,C1123,2025-11-21,Delivered,UPI,Hyderabad,Gujarat
+O50352,C1022,2025-02-04,Returned,Credit Card,Jaipur,West Bengal
+O50353,C1238,2025-06-21,Delivered,Credit Card,Ahmedabad,Tamil Nadu
+O50354,C1194,2025-10-30,Delivered,COD,Gurugram,Gujarat
+O50355,C1025,2025-06-23,Cancelled,COD,Kolkata,Haryana
+O50356,C1066,2025-11-03,Delivered,UPI,Ahmedabad,Uttar Pradesh
+O50357,C1166,2025-12-08,Delivered,Net Banking,Chennai,Telangana
+O50358,C1162,2025-06-23,Delivered,Net Banking,Noida,Maharashtra
+O50359,C1240,2025-01-22,Delivered,Credit Card,Gurugram,Maharashtra
+O50360,C1079,2025-05-05,Delivered,Debit Card,Gurugram,West Bengal
+O50361,C1277,2025-03-20,Delivered,Net Banking,Noida,Uttar Pradesh
+O50362,C1133,2025-06-23,Delivered,Credit Card,Jaipur,West Bengal
+O50363,C1246,2025-08-02,Delivered,UPI,Lucknow,Delhi
+O50364,C1071,2025-06-19,Delivered,Credit Card,Hyderabad,Karnataka
+O50365,C1011,2025-03-13,Delivered,Credit Card,Chennai,West Bengal
+O50366,C1016,2025-04-20,Delivered,Credit Card,Jaipur,Maharashtra
+O50367,C1111,2025-09-06,Delivered,Credit Card,Pune,Rajasthan
+O50368,C1285,2025-01-10,Delivered,UPI,Bengaluru,West Bengal
+O50369,C1014,2025-03-20,Delivered,COD,Chennai,Delhi
+O50370,C1110,2025-11-22,Delivered,UPI,Mumbai,Telangana
+O50371,C1032,2025-02-06,Delivered,Net Banking,Delhi,Haryana
+O50372,C1279,2025-06-01,Delivered,Net Banking,Hyderabad,Karnataka
+O50373,C1202,2025-03-17,Delivered,Net Banking,Jaipur,Maharashtra
+O50374,C1228,2025-02-08,Delivered,COD,Delhi,Rajasthan
+O50375,C1213,2025-06-04,Delivered,UPI,Gurugram,Gujarat
+O50376,C1197,2025-07-10,Shipped,Credit Card,Mumbai,Karnataka
+O50377,C1232,2025-03-06,Delivered,UPI,Jaipur,Telangana
+O50378,C1002,2025-01-29,Delivered,Debit Card,Hyderabad,Tamil Nadu
+O50379,C1259,2025-02-19,Delivered,Net Banking,Hyderabad,Tamil Nadu
+O50380,C1221,2025-08-26,Delivered,COD,Chennai,Tamil Nadu
+O50381,C1221,2025-11-11,Delivered,Credit Card,Mumbai,Rajasthan
+O50382,C1118,2025-03-07,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50383,C1240,2025-04-27,Delivered,COD,Delhi,Rajasthan
+O50384,C1114,2025-05-06,Delivered,Net Banking,Noida,Uttar Pradesh
+O50385,C1014,2025-05-12,Shipped,Net Banking,Jaipur,Karnataka
+O50386,C1272,2025-03-31,Returned,Debit Card,Chennai,Karnataka
+O50387,C1070,2025-01-21,Delivered,Debit Card,Gurugram,Telangana
+O50388,C1030,2025-07-11,Delivered,Credit Card,Bengaluru,Telangana
+O50389,C1186,2025-05-11,Shipped,Net Banking,Delhi,West Bengal
+O50390,C1070,2025-05-05,Delivered,Credit Card,Kolkata,Karnataka
+O50391,C1257,2025-04-07,Shipped,COD,Jaipur,Maharashtra
+O50392,C1133,2025-12-06,Delivered,UPI,Mumbai,Karnataka
+O50393,C1001,2025-08-11,Cancelled,Debit Card,Pune,Gujarat
+O50394,C1285,2025-06-02,Returned,Credit Card,Gurugram,Maharashtra
+O50395,C1154,2025-03-16,Delivered,Net Banking,Pune,Delhi
+O50396,C1078,2025-10-20,Delivered,Net Banking,Mumbai,Uttar Pradesh
+O50397,C1203,2025-11-21,Delivered,COD,Gurugram,Haryana
+O50398,C1159,2025-01-12,Delivered,Net Banking,Bengaluru,Tamil Nadu
+O50399,C1008,2025-12-06,Delivered,Credit Card,Ahmedabad,Rajasthan
+O50400,C1227,2025-09-13,Returned,Credit Card,Jaipur,Maharashtra
+O50401,C1120,2025-02-06,Delivered,COD,Mumbai,Maharashtra
+O50402,C1209,2025-10-02,Delivered,Debit Card,Lucknow,Maharashtra
+O50403,C1268,2025-02-09,Cancelled,UPI,Gurugram,Uttar Pradesh
+O50404,C1183,2025-01-19,Delivered,COD,Ahmedabad,Uttar Pradesh
+O50405,C1201,2025-02-12,Delivered,Net Banking,Mumbai,Haryana
+O50406,C1076,2025-06-17,Returned,UPI,Hyderabad,Karnataka
+O50407,C1071,2025-08-15,Delivered,Net Banking,Gurugram,Telangana
+O50408,C1124,2025-05-29,Delivered,Net Banking,Jaipur,Delhi
+O50409,C1255,2025-02-14,Delivered,Net Banking,Mumbai,Gujarat
+O50410,C1157,2025-03-14,Returned,COD,Ahmedabad,West Bengal
+O50411,C1104,2025-11-08,Delivered,Debit Card,Delhi,Delhi
+O50412,C1233,2025-12-18,Delivered,Debit Card,Hyderabad,Gujarat
+O50413,C1256,2025-10-03,Delivered,Net Banking,Noida,Delhi
+O50414,C1270,2025-02-07,Delivered,UPI,Ahmedabad,Telangana
+O50415,C1089,2025-10-27,Cancelled,UPI,Bengaluru,Karnataka
+O50416,C1212,2025-09-10,Delivered,COD,Kolkata,Telangana
+O50417,C1177,2025-07-12,Returned,Credit Card,Ahmedabad,Uttar Pradesh
+O50418,C1134,2025-02-22,Delivered,Debit Card,Hyderabad,Uttar Pradesh
+O50419,C1119,2025-12-30,Delivered,Credit Card,Delhi,Maharashtra
+O50420,C1034,2025-06-11,Cancelled,Credit Card,Gurugram,Telangana
+O50421,C1082,2025-01-17,Delivered,Debit Card,Gurugram,Uttar Pradesh
+O50422,C1164,2025-03-18,Delivered,COD,Ahmedabad,West Bengal
+O50423,C1265,2025-05-27,Cancelled,Debit Card,Ahmedabad,Gujarat
+O50424,C1259,2025-01-23,Delivered,UPI,Bengaluru,Karnataka
+O50425,C1056,2025-04-29,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50426,C1203,2025-06-20,Returned,UPI,Gurugram,Telangana
+O50427,C1025,2025-12-13,Delivered,COD,Kolkata,Rajasthan
+O50428,C1202,2025-02-01,Delivered,Credit Card,Pune,Uttar Pradesh
+O50429,C1102,2025-07-30,Delivered,Credit Card,Gurugram,West Bengal
+O50430,C1134,2025-12-01,Delivered,UPI,Mumbai,West Bengal
+O50431,C1215,2025-10-22,Delivered,Debit Card,Bengaluru,Telangana
+O50432,C1127,2025-12-04,Delivered,COD,Pune,Maharashtra
+O50433,C1242,2025-03-04,Delivered,Debit Card,Gurugram,Karnataka
+O50434,C1160,2025-10-20,Delivered,Net Banking,Pune,Karnataka
+O50435,C1299,2025-12-24,Delivered,UPI,Noida,Rajasthan
+O50436,C1191,2025-04-30,Delivered,UPI,Lucknow,Telangana
+O50437,C1088,2025-07-02,Delivered,Net Banking,Pune,Rajasthan
+O50438,C1232,2025-07-13,Delivered,UPI,Noida,Delhi
+O50439,C1122,2025-06-30,Delivered,Debit Card,Hyderabad,Rajasthan
+O50440,C1160,2025-04-16,Delivered,Credit Card,Ahmedabad,Telangana
+O50441,C1041,2025-12-21,Cancelled,UPI,Pune,Uttar Pradesh
+O50442,C1035,2025-12-16,Delivered,Debit Card,Ahmedabad,Karnataka
+O50443,C1172,2025-05-19,Delivered,COD,Chennai,Karnataka
+O50444,C1056,2025-10-21,Cancelled,UPI,Kolkata,Uttar Pradesh
+O50445,C1299,2025-05-26,Delivered,COD,Mumbai,Rajasthan
+O50446,C1256,2025-10-18,Delivered,Debit Card,Delhi,West Bengal
+O50447,C1210,2025-08-02,Delivered,Net Banking,Pune,Gujarat
+O50448,C1220,2025-06-21,Delivered,UPI,Lucknow,Uttar Pradesh
+O50449,C1178,2025-02-16,Delivered,COD,Jaipur,Haryana
+O50450,C1018,2025-08-27,Shipped,UPI,Jaipur,Gujarat
+O50451,C1117,2025-04-28,Delivered,COD,Ahmedabad,Delhi
+O50452,C1148,2025-03-21,Shipped,Net Banking,Pune,Telangana
+O50453,C1274,2025-03-12,Cancelled,Credit Card,Mumbai,Maharashtra
+O50454,C1065,2025-12-25,Delivered,UPI,Lucknow,Uttar Pradesh
+O50455,C1149,2025-02-07,Delivered,Net Banking,Hyderabad,Gujarat
+O50456,C1103,2025-10-19,Delivered,UPI,Mumbai,Gujarat
+O50457,C1040,2025-11-13,Returned,Net Banking,Mumbai,Maharashtra
+O50458,C1030,2025-01-12,Delivered,Net Banking,Ahmedabad,Tamil Nadu
+O50459,C1109,2025-08-04,Delivered,Credit Card,Delhi,West Bengal
+O50460,C1024,2025-07-30,Delivered,Credit Card,Delhi,Uttar Pradesh
+O50461,C1020,2025-05-11,Delivered,Credit Card,Kolkata,Delhi
+O50462,C1105,2025-09-01,Delivered,Credit Card,Delhi,Uttar Pradesh
+O50463,C1060,2025-05-30,Delivered,UPI,Gurugram,Maharashtra
+O50464,C1166,2025-06-10,Delivered,Credit Card,Lucknow,Uttar Pradesh
+O50465,C1005,2025-06-07,Cancelled,Net Banking,Bengaluru,Tamil Nadu
+O50466,C1090,2025-10-20,Delivered,Credit Card,Kolkata,Rajasthan
+O50467,C1135,2025-08-20,Delivered,Net Banking,Bengaluru,Uttar Pradesh
+O50468,C1288,2025-05-19,Delivered,COD,Noida,Delhi
+O50469,C1190,2025-12-05,Delivered,Net Banking,Gurugram,Gujarat
+O50470,C1264,2025-10-20,Delivered,Debit Card,Jaipur,Uttar Pradesh
+O50471,C1102,2025-12-07,Delivered,Credit Card,Noida,Uttar Pradesh
+O50472,C1134,2025-09-24,Delivered,COD,Chennai,Gujarat
+O50473,C1126,2025-05-23,Delivered,Credit Card,Pune,Gujarat
+O50474,C1266,2025-10-10,Delivered,Debit Card,Pune,Uttar Pradesh
+O50475,C1287,2025-05-01,Delivered,Debit Card,Lucknow,Haryana
+O50476,C1288,2025-04-09,Delivered,Net Banking,Chennai,Telangana
+O50477,C1225,2025-06-14,Delivered,Debit Card,Chennai,Uttar Pradesh
+O50478,C1150,2025-12-20,Delivered,Net Banking,Pune,Gujarat
+O50479,C1162,2025-07-27,Delivered,COD,Pune,Tamil Nadu
+O50480,C1294,2025-05-21,Delivered,Credit Card,Kolkata,Haryana
+O50481,C1085,2025-06-18,Shipped,COD,Delhi,Uttar Pradesh
+O50482,C1104,2025-04-17,Returned,UPI,Gurugram,Maharashtra
+O50483,C1269,2025-08-29,Cancelled,COD,Chennai,Delhi
+O50484,C1115,2025-05-08,Delivered,UPI,Chennai,Haryana
+O50485,C1070,2025-07-22,Delivered,COD,Noida,Delhi
+O50486,C1168,2025-05-15,Delivered,Credit Card,Jaipur,Rajasthan
+O50487,C1097,2025-04-28,Shipped,COD,Hyderabad,Tamil Nadu
+O50488,C1267,2025-12-21,Shipped,UPI,Gurugram,Telangana
+O50489,C1272,2025-05-07,Cancelled,Debit Card,Jaipur,Rajasthan
+O50490,C1091,2025-01-26,Cancelled,COD,Lucknow,Maharashtra
+O50491,C1158,2025-05-19,Delivered,UPI,Bengaluru,Maharashtra
+O50492,C1295,2025-07-14,Shipped,Credit Card,Mumbai,Haryana
+O50493,C1222,2025-02-04,Shipped,UPI,Mumbai,Karnataka
+O50494,C1064,2025-04-22,Delivered,Credit Card,Chennai,Haryana
+O50495,C1177,2025-03-02,Cancelled,Credit Card,Delhi,Tamil Nadu
+O50496,C1185,2025-07-02,Delivered,Net Banking,Bengaluru,Uttar Pradesh
+O50497,C1196,2025-09-21,Returned,Credit Card,Delhi,Telangana
+O50498,C1007,2025-12-20,Shipped,UPI,Delhi,Maharashtra
+O50499,C1089,2025-05-23,Delivered,UPI,Bengaluru,West Bengal
+O50500,C1256,2025-11-12,Delivered,COD,Kolkata,Rajasthan
+O50501,C1072,2025-03-20,Delivered,COD,Ahmedabad,Karnataka
+O50502,C1089,2025-10-12,Shipped,Credit Card,Noida,Maharashtra
+O50503,C1096,2025-07-25,Shipped,UPI,Gurugram,West Bengal
+O50504,C1053,2025-10-04,Delivered,UPI,Bengaluru,Haryana
+O50505,C1046,2025-10-03,Cancelled,COD,Hyderabad,Uttar Pradesh
+O50506,C1104,2025-07-14,Delivered,Net Banking,Lucknow,Maharashtra
+O50507,C1262,2025-04-04,Delivered,Net Banking,Kolkata,Maharashtra
+O50508,C1000,2025-07-12,Delivered,Credit Card,Hyderabad,West Bengal
+O50509,C1084,2025-10-29,Delivered,Net Banking,Delhi,Delhi
+O50510,C1018,2025-12-21,Delivered,UPI,Delhi,Haryana
+O50511,C1168,2025-12-05,Delivered,Net Banking,Noida,Uttar Pradesh
+O50512,C1075,2025-03-08,Delivered,Debit Card,Chennai,Maharashtra
+O50513,C1237,2025-08-07,Delivered,Credit Card,Mumbai,Telangana
+O50514,C1175,2025-02-08,Cancelled,Net Banking,Gurugram,Haryana
+O50515,C1235,2025-09-02,Delivered,Net Banking,Kolkata,Maharashtra
+O50516,C1190,2025-12-29,Cancelled,Debit Card,Jaipur,Rajasthan
+O50517,C1131,2025-01-20,Delivered,UPI,Bengaluru,Uttar Pradesh
+O50518,C1258,2025-08-28,Delivered,UPI,Ahmedabad,Delhi
+O50519,C1142,2025-12-12,Delivered,COD,Kolkata,Tamil Nadu
+O50520,C1284,2025-11-06,Delivered,Credit Card,Kolkata,Delhi
+O50521,C1298,2025-05-24,Delivered,Credit Card,Ahmedabad,Telangana
+O50522,C1176,2025-02-07,Delivered,Net Banking,Gurugram,Gujarat
+O50523,C1202,2025-12-04,Delivered,Credit Card,Jaipur,Rajasthan
+O50524,C1076,2025-12-03,Delivered,Credit Card,Lucknow,Haryana
+O50525,C1244,2025-07-31,Delivered,Net Banking,Lucknow,Maharashtra
+O50526,C1201,2025-12-24,Delivered,Debit Card,Hyderabad,Rajasthan
+O50527,C1270,2025-01-02,Shipped,Net Banking,Jaipur,Rajasthan
+O50528,C1080,2025-08-14,Delivered,UPI,Ahmedabad,Maharashtra
+O50529,C1236,2025-01-15,Returned,Debit Card,Ahmedabad,Delhi
+O50530,C1141,2025-12-08,Shipped,Debit Card,Ahmedabad,Karnataka
+O50531,C1055,2025-09-06,Returned,Net Banking,Jaipur,Tamil Nadu
+O50532,C1051,2025-11-30,Shipped,UPI,Pune,Karnataka
+O50533,C1168,2025-07-25,Delivered,UPI,Kolkata,Uttar Pradesh
+O50534,C1095,2025-01-31,Delivered,Net Banking,Pune,Rajasthan
+O50535,C1030,2025-01-10,Delivered,Net Banking,Jaipur,Rajasthan
+O50536,C1128,2025-05-03,Shipped,COD,Jaipur,Delhi
+O50537,C1195,2025-09-29,Delivered,Credit Card,Lucknow,Gujarat
+O50538,C1095,2025-02-25,Delivered,COD,Chennai,Rajasthan
+O50539,C1286,2025-11-08,Cancelled,Credit Card,Bengaluru,Maharashtra
+O50540,C1233,2025-03-29,Delivered,Net Banking,Noida,Tamil Nadu
+O50541,C1153,2025-07-01,Delivered,UPI,Chennai,Rajasthan
+O50542,C1280,2025-03-16,Shipped,COD,Hyderabad,Gujarat
+O50543,C1129,2025-06-20,Delivered,Credit Card,Hyderabad,Telangana
+O50544,C1041,2025-06-15,Delivered,COD,Kolkata,Delhi
+O50545,C1010,2025-01-02,Shipped,Credit Card,Ahmedabad,Tamil Nadu
+O50546,C1281,2025-07-27,Delivered,Net Banking,Noida,West Bengal
+O50547,C1287,2025-10-15,Delivered,Debit Card,Bengaluru,Delhi
+O50548,C1221,2025-12-08,Delivered,UPI,Kolkata,Rajasthan
+O50549,C1030,2025-05-01,Delivered,UPI,Jaipur,Haryana
+O50550,C1088,2025-11-18,Delivered,Net Banking,Jaipur,Gujarat
+O50551,C1012,2025-11-17,Cancelled,UPI,Jaipur,Telangana
+O50552,C1015,2025-12-27,Cancelled,Credit Card,Ahmedabad,Maharashtra
+O50553,C1073,2025-05-17,Delivered,Debit Card,Lucknow,Delhi
+O50554,C1171,2025-11-07,Delivered,Credit Card,Chennai,Delhi
+O50555,C1019,2025-07-26,Delivered,UPI,Gurugram,West Bengal
+O50556,C1295,2025-01-22,Delivered,Net Banking,Hyderabad,Maharashtra
+O50557,C1136,2025-04-09,Delivered,Net Banking,Kolkata,Gujarat
+O50558,C1079,2025-09-03,Delivered,Net Banking,Noida,Haryana
+O50559,C1154,2025-02-28,Delivered,COD,Jaipur,Uttar Pradesh
+O50560,C1237,2025-06-08,Returned,UPI,Hyderabad,Uttar Pradesh
+O50561,C1093,2025-10-10,Delivered,Debit Card,Lucknow,Uttar Pradesh
+O50562,C1014,2025-02-24,Cancelled,Credit Card,Gurugram,Tamil Nadu
+O50563,C1015,2025-07-01,Delivered,COD,Ahmedabad,Uttar Pradesh
+O50564,C1255,2025-03-20,Cancelled,Debit Card,Bengaluru,Maharashtra
+O50565,C1033,2025-07-15,Delivered,UPI,Hyderabad,Delhi
+O50566,C1190,2025-03-29,Delivered,Net Banking,Chennai,Gujarat
+O50567,C1115,2025-12-19,Cancelled,UPI,Hyderabad,Karnataka
+O50568,C1233,2025-01-28,Returned,Credit Card,Ahmedabad,Delhi
+O50569,C1018,2025-12-18,Delivered,Net Banking,Gurugram,Gujarat
+O50570,C1269,2025-10-17,Delivered,Debit Card,Kolkata,West Bengal
+O50571,C1209,2025-11-09,Delivered,Net Banking,Lucknow,Delhi
+O50572,C1134,2025-11-07,Delivered,Debit Card,Gurugram,Maharashtra
+O50573,C1062,2025-03-10,Delivered,COD,Mumbai,Delhi
+O50574,C1293,2025-12-06,Cancelled,Debit Card,Bengaluru,Uttar Pradesh
+O50575,C1090,2025-08-05,Delivered,UPI,Kolkata,Delhi
+O50576,C1147,2025-12-18,Delivered,UPI,Lucknow,Rajasthan
+O50577,C1118,2025-11-17,Delivered,Net Banking,Jaipur,Telangana
+O50578,C1069,2025-07-31,Delivered,UPI,Jaipur,Telangana
+O50579,C1124,2025-05-17,Delivered,Credit Card,Bengaluru,Rajasthan
+O50580,C1045,2025-02-12,Delivered,UPI,Chennai,Gujarat
+O50581,C1000,2025-02-06,Delivered,Credit Card,Gurugram,Uttar Pradesh
+O50582,C1086,2025-05-23,Delivered,Debit Card,Bengaluru,Delhi
+O50583,C1033,2025-10-24,Returned,UPI,Gurugram,Uttar Pradesh
+O50584,C1124,2025-07-04,Shipped,Debit Card,Delhi,West Bengal
+O50585,C1258,2025-06-25,Cancelled,COD,Ahmedabad,Telangana
+O50586,C1048,2025-03-31,Delivered,UPI,Jaipur,Uttar Pradesh
+O50587,C1000,2025-07-26,Delivered,UPI,Hyderabad,Haryana
+O50588,C1033,2025-08-21,Delivered,Credit Card,Delhi,Telangana
+O50589,C1152,2025-12-25,Delivered,COD,Noida,West Bengal
+O50590,C1082,2025-09-24,Delivered,Debit Card,Noida,Maharashtra
+O50591,C1146,2025-08-10,Delivered,Net Banking,Kolkata,Uttar Pradesh
+O50592,C1008,2025-11-29,Delivered,UPI,Gurugram,Uttar Pradesh
+O50593,C1099,2025-06-05,Delivered,Net Banking,Mumbai,Rajasthan
+O50594,C1123,2025-12-08,Delivered,UPI,Ahmedabad,Karnataka
+O50595,C1129,2025-05-16,Delivered,Net Banking,Ahmedabad,Gujarat
+O50596,C1165,2025-02-16,Delivered,UPI,Jaipur,West Bengal
+O50597,C1234,2025-06-02,Delivered,COD,Mumbai,Telangana
+O50598,C1140,2025-02-16,Delivered,Credit Card,Hyderabad,Karnataka
+O50599,C1252,2025-02-13,Delivered,UPI,Gurugram,Rajasthan
+O50600,C1158,2025-11-18,Delivered,Credit Card,Ahmedabad,Telangana
+O50601,C1078,2025-10-18,Shipped,UPI,Noida,Haryana
+O50602,C1068,2025-03-22,Delivered,UPI,Kolkata,Uttar Pradesh
+O50603,C1096,2025-11-02,Delivered,Debit Card,Hyderabad,Delhi
+O50604,C1179,2025-01-26,Returned,Credit Card,Jaipur,West Bengal
+O50605,C1072,2025-04-14,Delivered,Credit Card,Bengaluru,Tamil Nadu
+O50606,C1274,2025-09-15,Cancelled,COD,Noida,Tamil Nadu
+O50607,C1143,2025-04-21,Shipped,UPI,Jaipur,Delhi
+O50608,C1258,2025-09-24,Delivered,Credit Card,Chennai,Karnataka
+O50609,C1204,2025-11-16,Delivered,UPI,Bengaluru,Gujarat
+O50610,C1100,2025-01-25,Delivered,Debit Card,Pune,Haryana
+O50611,C1068,2025-01-09,Returned,Credit Card,Pune,West Bengal
+O50612,C1223,2025-12-10,Delivered,UPI,Bengaluru,Gujarat
+O50613,C1099,2025-07-09,Delivered,UPI,Mumbai,Uttar Pradesh
+O50614,C1074,2025-07-04,Delivered,COD,Mumbai,Telangana
+O50615,C1279,2025-06-19,Delivered,UPI,Mumbai,Maharashtra
+O50616,C1144,2025-06-08,Shipped,Net Banking,Delhi,West Bengal
+O50617,C1014,2025-09-09,Delivered,COD,Lucknow,Karnataka
+O50618,C1148,2025-07-31,Shipped,Debit Card,Gurugram,Tamil Nadu
+O50619,C1138,2025-03-01,Cancelled,Credit Card,Noida,West Bengal
+O50620,C1259,2025-08-17,Delivered,Net Banking,Noida,West Bengal
+O50621,C1213,2025-09-01,Delivered,COD,Lucknow,Haryana
+O50622,C1057,2025-02-11,Shipped,UPI,Bengaluru,Rajasthan
+O50623,C1045,2025-05-18,Cancelled,COD,Mumbai,Telangana
+O50624,C1181,2025-10-16,Cancelled,COD,Pune,Uttar Pradesh
+O50625,C1014,2025-08-14,Delivered,UPI,Noida,Tamil Nadu
+O50626,C1095,2025-02-19,Delivered,UPI,Mumbai,Gujarat
+O50627,C1041,2025-01-15,Delivered,Net Banking,Gurugram,Uttar Pradesh
+O50628,C1006,2025-08-01,Cancelled,UPI,Jaipur,Uttar Pradesh
+O50629,C1275,2025-06-18,Delivered,Net Banking,Delhi,West Bengal
+O50630,C1026,2025-12-17,Delivered,UPI,Bengaluru,Tamil Nadu
+O50631,C1002,2025-07-10,Delivered,Net Banking,Jaipur,Uttar Pradesh
+O50632,C1279,2025-12-06,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50633,C1056,2025-03-20,Delivered,UPI,Hyderabad,Karnataka
+O50634,C1244,2025-06-13,Delivered,UPI,Gurugram,Rajasthan
+O50635,C1009,2025-02-20,Delivered,UPI,Pune,Tamil Nadu
+O50636,C1046,2025-07-29,Cancelled,Debit Card,Gurugram,Karnataka
+O50637,C1033,2025-03-10,Shipped,UPI,Chennai,Uttar Pradesh
+O50638,C1211,2025-06-29,Delivered,COD,Mumbai,West Bengal
+O50639,C1186,2025-05-06,Delivered,Net Banking,Chennai,Karnataka
+O50640,C1142,2025-03-09,Returned,Credit Card,Chennai,Delhi
+O50641,C1072,2025-02-05,Delivered,COD,Lucknow,Maharashtra
+O50642,C1026,2025-07-06,Delivered,Net Banking,Pune,Gujarat
+O50643,C1170,2025-12-12,Delivered,Net Banking,Lucknow,Uttar Pradesh
+O50644,C1069,2025-03-14,Delivered,UPI,Pune,Maharashtra
+O50645,C1177,2025-05-28,Delivered,Net Banking,Kolkata,Telangana
+O50646,C1206,2025-03-23,Shipped,Debit Card,Chennai,Uttar Pradesh
+O50647,C1254,2025-10-23,Delivered,COD,Jaipur,Uttar Pradesh
+O50648,C1148,2025-06-01,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O50649,C1001,2025-12-22,Shipped,Net Banking,Jaipur,Tamil Nadu
+O50650,C1084,2025-03-31,Returned,Credit Card,Pune,Haryana
+O50651,C1256,2025-01-30,Shipped,UPI,Bengaluru,Haryana
+O50652,C1159,2025-08-01,Delivered,UPI,Bengaluru,Karnataka
+O50653,C1185,2025-08-26,Delivered,COD,Kolkata,West Bengal
+O50654,C1137,2025-12-28,Delivered,Net Banking,Chennai,West Bengal
+O50655,C1048,2025-11-15,Delivered,Credit Card,Delhi,Haryana
+O50656,C1269,2025-11-19,Delivered,Net Banking,Jaipur,West Bengal
+O50657,C1231,2025-08-20,Delivered,UPI,Jaipur,Gujarat
+O50658,C1298,2025-05-12,Delivered,UPI,Noida,Haryana
+O50659,C1256,2025-06-06,Cancelled,Debit Card,Lucknow,Delhi
+O50660,C1087,2025-02-18,Returned,Net Banking,Chennai,Uttar Pradesh
+O50661,C1076,2025-06-07,Delivered,COD,Noida,Telangana
+O50662,C1074,2025-05-14,Delivered,Net Banking,Bengaluru,Rajasthan
+O50663,C1275,2025-01-14,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50664,C1167,2025-03-16,Delivered,COD,Mumbai,Maharashtra
+O50665,C1136,2025-07-15,Delivered,Debit Card,Lucknow,Haryana
+O50666,C1290,2025-05-15,Delivered,COD,Bengaluru,Haryana
+O50667,C1181,2025-12-29,Shipped,UPI,Gurugram,Karnataka
+O50668,C1272,2025-06-24,Delivered,UPI,Pune,Uttar Pradesh
+O50669,C1295,2025-12-16,Cancelled,UPI,Hyderabad,Gujarat
+O50670,C1023,2025-08-30,Delivered,COD,Kolkata,Telangana
+O50671,C1108,2025-01-15,Delivered,UPI,Lucknow,Gujarat
+O50672,C1220,2025-03-16,Delivered,COD,Gurugram,Telangana
+O50673,C1243,2025-09-15,Delivered,Net Banking,Lucknow,Maharashtra
+O50674,C1044,2025-07-18,Delivered,UPI,Hyderabad,Telangana
+O50675,C1095,2025-04-21,Returned,COD,Noida,Uttar Pradesh
+O50676,C1164,2025-07-10,Delivered,UPI,Lucknow,Rajasthan
+O50677,C1239,2025-11-26,Delivered,UPI,Pune,West Bengal
+O50678,C1033,2025-05-22,Delivered,Debit Card,Chennai,Uttar Pradesh
+O50679,C1180,2025-01-17,Delivered,Credit Card,Kolkata,Telangana
+O50680,C1088,2025-04-24,Delivered,Credit Card,Delhi,Telangana
+O50681,C1064,2025-12-08,Delivered,UPI,Gurugram,Haryana
+O50682,C1154,2025-10-06,Shipped,Net Banking,Kolkata,Uttar Pradesh
+O50683,C1124,2025-11-02,Delivered,UPI,Mumbai,Rajasthan
+O50684,C1190,2025-11-29,Delivered,Credit Card,Delhi,Maharashtra
+O50685,C1095,2025-02-12,Delivered,Debit Card,Delhi,Telangana
+O50686,C1246,2025-04-14,Cancelled,Debit Card,Jaipur,Haryana
+O50687,C1023,2025-01-22,Delivered,Net Banking,Noida,Tamil Nadu
+O50688,C1258,2025-01-02,Delivered,Credit Card,Noida,Delhi
+O50689,C1008,2025-11-01,Delivered,Net Banking,Hyderabad,Maharashtra
+O50690,C1220,2025-12-08,Delivered,Net Banking,Noida,Telangana
+O50691,C1103,2025-02-26,Delivered,Credit Card,Chennai,Karnataka
+O50692,C1115,2025-09-21,Shipped,Credit Card,Hyderabad,Tamil Nadu
+O50693,C1005,2025-07-15,Delivered,Debit Card,Chennai,Haryana
+O50694,C1210,2025-01-26,Shipped,Debit Card,Bengaluru,Karnataka
+O50695,C1049,2025-12-01,Delivered,UPI,Jaipur,Rajasthan
+O50696,C1197,2025-11-15,Cancelled,Debit Card,Chennai,Maharashtra
+O50697,C1217,2025-07-27,Shipped,UPI,Pune,Uttar Pradesh
+O50698,C1253,2025-09-16,Delivered,Debit Card,Delhi,Gujarat
+O50699,C1212,2025-05-25,Delivered,COD,Mumbai,Rajasthan
+O50700,C1090,2025-10-17,Delivered,Debit Card,Noida,West Bengal
+O50701,C1221,2025-06-12,Cancelled,Net Banking,Delhi,Rajasthan
+O50702,C1247,2025-12-28,Delivered,Credit Card,Mumbai,Rajasthan
+O50703,C1095,2025-01-24,Delivered,COD,Gurugram,West Bengal
+O50704,C1037,2025-03-04,Delivered,COD,Delhi,Telangana
+O50705,C1267,2025-12-20,Shipped,COD,Mumbai,Delhi
+O50706,C1044,2025-04-16,Delivered,Net Banking,Hyderabad,Tamil Nadu
+O50707,C1178,2025-04-24,Delivered,Net Banking,Gurugram,Maharashtra
+O50708,C1070,2025-10-16,Returned,Debit Card,Mumbai,Rajasthan
+O50709,C1037,2025-03-11,Delivered,COD,Delhi,Karnataka
+O50710,C1232,2025-07-07,Shipped,COD,Delhi,Gujarat
+O50711,C1043,2025-04-15,Delivered,Debit Card,Noida,Tamil Nadu
+O50712,C1201,2025-03-14,Delivered,UPI,Bengaluru,Telangana
+O50713,C1207,2025-12-18,Cancelled,UPI,Chennai,Uttar Pradesh
+O50714,C1018,2025-03-14,Delivered,Credit Card,Jaipur,Karnataka
+O50715,C1051,2025-02-04,Delivered,UPI,Chennai,Maharashtra
+O50716,C1238,2025-09-03,Delivered,Credit Card,Chennai,Maharashtra
+O50717,C1152,2025-11-13,Delivered,UPI,Lucknow,Gujarat
+O50718,C1036,2025-02-16,Delivered,COD,Mumbai,Rajasthan
+O50719,C1297,2025-09-16,Delivered,UPI,Jaipur,Uttar Pradesh
+O50720,C1079,2025-07-17,Delivered,Net Banking,Lucknow,Karnataka
+O50721,C1001,2025-10-30,Delivered,Credit Card,Hyderabad,Maharashtra
+O50722,C1277,2025-02-16,Delivered,UPI,Ahmedabad,Tamil Nadu
+O50723,C1004,2025-12-23,Delivered,Net Banking,Noida,Delhi
+O50724,C1166,2025-08-14,Delivered,COD,Ahmedabad,West Bengal
+O50725,C1297,2025-11-04,Delivered,Net Banking,Hyderabad,West Bengal
+O50726,C1173,2025-05-13,Cancelled,COD,Gurugram,Haryana
+O50727,C1175,2025-12-11,Delivered,Debit Card,Delhi,Uttar Pradesh
+O50728,C1116,2025-08-17,Delivered,Net Banking,Kolkata,Tamil Nadu
+O50729,C1038,2025-02-16,Delivered,UPI,Bengaluru,Maharashtra
+O50730,C1171,2025-12-03,Cancelled,COD,Mumbai,Uttar Pradesh
+O50731,C1269,2025-10-18,Delivered,Net Banking,Pune,Rajasthan
+O50732,C1027,2025-04-20,Delivered,Credit Card,Lucknow,Uttar Pradesh
+O50733,C1264,2025-07-19,Delivered,Credit Card,Bengaluru,Telangana
+O50734,C1124,2025-05-22,Delivered,Net Banking,Delhi,Uttar Pradesh
+O50735,C1160,2025-07-18,Shipped,UPI,Mumbai,Delhi
+O50736,C1049,2025-12-19,Returned,COD,Noida,Maharashtra
+O50737,C1186,2025-11-25,Delivered,Credit Card,Kolkata,Delhi
+O50738,C1054,2025-03-20,Shipped,UPI,Jaipur,West Bengal
+O50739,C1081,2025-12-21,Delivered,Credit Card,Ahmedabad,Telangana
+O50740,C1216,2025-06-09,Delivered,COD,Chennai,Maharashtra
+O50741,C1015,2025-09-15,Shipped,Credit Card,Jaipur,Maharashtra
+O50742,C1134,2025-10-06,Delivered,Debit Card,Bengaluru,Tamil Nadu
+O50743,C1178,2025-06-26,Delivered,COD,Chennai,Haryana
+O50744,C1039,2025-06-16,Delivered,UPI,Noida,Telangana
+O50745,C1088,2025-06-16,Returned,Net Banking,Hyderabad,Tamil Nadu
+O50746,C1103,2025-11-11,Delivered,Credit Card,Hyderabad,Haryana
+O50747,C1199,2025-05-22,Delivered,Net Banking,Delhi,Haryana
+O50748,C1293,2025-04-13,Delivered,UPI,Hyderabad,Maharashtra
+O50749,C1250,2025-05-12,Delivered,UPI,Kolkata,Tamil Nadu
+O50750,C1056,2025-03-13,Delivered,Net Banking,Pune,Maharashtra
+O50751,C1005,2025-05-23,Shipped,COD,Hyderabad,Maharashtra
+O50752,C1015,2025-02-11,Shipped,COD,Mumbai,Telangana
+O50753,C1178,2025-02-02,Cancelled,Net Banking,Mumbai,Haryana
+O50754,C1046,2025-09-22,Shipped,Debit Card,Noida,Telangana
+O50755,C1069,2025-01-29,Delivered,UPI,Mumbai,Uttar Pradesh
+O50756,C1254,2025-07-27,Delivered,Credit Card,Jaipur,Uttar Pradesh
+O50757,C1262,2025-10-12,Delivered,Net Banking,Lucknow,Haryana
+O50758,C1251,2025-09-22,Delivered,Credit Card,Chennai,Maharashtra
+O50759,C1076,2025-06-12,Cancelled,Debit Card,Chennai,Delhi
+O50760,C1185,2025-03-12,Delivered,UPI,Chennai,Uttar Pradesh
+O50761,C1183,2025-12-06,Returned,Debit Card,Bengaluru,Maharashtra
+O50762,C1055,2025-11-01,Delivered,Credit Card,Bengaluru,Rajasthan
+O50763,C1166,2025-08-12,Delivered,UPI,Chennai,Gujarat
+O50764,C1157,2025-02-01,Delivered,UPI,Jaipur,Rajasthan
+O50765,C1118,2025-01-13,Delivered,Debit Card,Pune,Rajasthan
+O50766,C1225,2025-04-26,Delivered,Credit Card,Hyderabad,Uttar Pradesh
+O50767,C1203,2025-02-27,Delivered,UPI,Bengaluru,Maharashtra
+O50768,C1159,2025-11-11,Delivered,Debit Card,Mumbai,West Bengal
+O50769,C1217,2025-03-17,Cancelled,UPI,Mumbai,Telangana
+O50770,C1228,2025-04-14,Delivered,UPI,Delhi,Delhi
+O50771,C1170,2025-12-23,Delivered,UPI,Bengaluru,Telangana
+O50772,C1080,2025-10-26,Shipped,Debit Card,Kolkata,Rajasthan
+O50773,C1227,2025-03-21,Delivered,COD,Kolkata,Rajasthan
+O50774,C1215,2025-05-20,Cancelled,Credit Card,Lucknow,Maharashtra
+O50775,C1295,2025-07-08,Shipped,Credit Card,Delhi,Haryana
+O50776,C1044,2025-08-31,Delivered,Credit Card,Jaipur,Maharashtra
+O50777,C1125,2025-12-08,Delivered,Credit Card,Jaipur,Maharashtra
+O50778,C1277,2025-11-14,Delivered,Net Banking,Bengaluru,Maharashtra
+O50779,C1154,2025-12-23,Shipped,Credit Card,Mumbai,Maharashtra
+O50780,C1282,2025-01-15,Shipped,Net Banking,Pune,Karnataka
+O50781,C1003,2025-03-28,Delivered,COD,Kolkata,Delhi
+O50782,C1010,2025-07-25,Delivered,COD,Ahmedabad,Maharashtra
+O50783,C1238,2025-01-18,Delivered,Debit Card,Chennai,Maharashtra
+O50784,C1107,2025-05-10,Delivered,Net Banking,Hyderabad,Uttar Pradesh
+O50785,C1156,2025-02-26,Returned,COD,Chennai,Gujarat
+O50786,C1128,2025-12-07,Delivered,Net Banking,Delhi,West Bengal
+O50787,C1122,2025-01-24,Delivered,Credit Card,Chennai,Gujarat
+O50788,C1281,2025-02-24,Delivered,UPI,Delhi,Telangana
+O50789,C1028,2025-03-13,Shipped,UPI,Lucknow,Uttar Pradesh
+O50790,C1231,2025-02-24,Returned,COD,Ahmedabad,Gujarat
+O50791,C1266,2025-07-27,Delivered,Debit Card,Hyderabad,Karnataka
+O50792,C1197,2025-05-13,Delivered,Credit Card,Pune,West Bengal
+O50793,C1118,2025-11-30,Delivered,Credit Card,Kolkata,Maharashtra
+O50794,C1048,2025-04-06,Delivered,Credit Card,Chennai,Karnataka
+O50795,C1204,2025-07-16,Delivered,COD,Kolkata,Karnataka
+O50796,C1140,2025-08-29,Delivered,Net Banking,Hyderabad,Maharashtra
+O50797,C1044,2025-08-17,Delivered,COD,Gurugram,Telangana
+O50798,C1107,2025-10-18,Delivered,Credit Card,Delhi,West Bengal
+O50799,C1288,2025-03-15,Delivered,Debit Card,Mumbai,Delhi
+O50800,C1079,2025-07-05,Delivered,UPI,Hyderabad,Uttar Pradesh
+O50801,C1053,2025-10-20,Shipped,COD,Bengaluru,Gujarat
+O50802,C1204,2025-11-12,Delivered,Debit Card,Hyderabad,Telangana
+O50803,C1059,2025-08-14,Shipped,Debit Card,Mumbai,Uttar Pradesh
+O50804,C1275,2025-08-26,Delivered,Debit Card,Lucknow,Tamil Nadu
+O50805,C1257,2025-11-12,Delivered,Credit Card,Pune,Tamil Nadu
+O50806,C1295,2025-08-17,Delivered,COD,Ahmedabad,Gujarat
+O50807,C1273,2025-12-13,Delivered,Debit Card,Pune,Tamil Nadu
+O50808,C1073,2025-02-16,Delivered,Net Banking,Bengaluru,Maharashtra
+O50809,C1063,2025-05-07,Delivered,UPI,Chennai,Telangana
+O50810,C1102,2025-02-10,Cancelled,Credit Card,Mumbai,Haryana
+O50811,C1140,2025-02-03,Delivered,COD,Gurugram,Maharashtra
+O50812,C1263,2025-06-22,Delivered,UPI,Pune,West Bengal
+O50813,C1220,2025-03-24,Delivered,UPI,Jaipur,Uttar Pradesh
+O50814,C1193,2025-05-29,Delivered,COD,Noida,West Bengal
+O50815,C1263,2025-06-09,Shipped,Credit Card,Bengaluru,Tamil Nadu
+O50816,C1193,2025-08-15,Shipped,Credit Card,Kolkata,Maharashtra
+O50817,C1113,2025-12-12,Delivered,Debit Card,Kolkata,Delhi
+O50818,C1123,2025-11-07,Delivered,UPI,Bengaluru,West Bengal
+O50819,C1155,2025-05-19,Delivered,UPI,Delhi,Rajasthan
+O50820,C1026,2025-04-29,Delivered,UPI,Delhi,West Bengal
+O50821,C1222,2025-10-09,Cancelled,UPI,Bengaluru,Karnataka
+O50822,C1195,2025-02-15,Shipped,UPI,Jaipur,Tamil Nadu
+O50823,C1219,2025-07-17,Delivered,Net Banking,Delhi,Maharashtra
+O50824,C1160,2025-06-04,Delivered,Credit Card,Ahmedabad,Maharashtra
+O50825,C1234,2025-03-08,Delivered,UPI,Kolkata,Maharashtra
+O50826,C1284,2025-08-14,Delivered,UPI,Delhi,Haryana
+O50827,C1170,2025-04-28,Delivered,Debit Card,Pune,Uttar Pradesh
+O50828,C1133,2025-03-09,Delivered,COD,Gurugram,Tamil Nadu
+O50829,C1031,2025-08-27,Returned,Credit Card,Lucknow,Haryana
+O50830,C1233,2025-03-05,Delivered,UPI,Hyderabad,Gujarat
+O50831,C1271,2025-09-03,Delivered,Credit Card,Mumbai,Uttar Pradesh
+O50832,C1209,2025-03-01,Delivered,Debit Card,Mumbai,Tamil Nadu
+O50833,C1259,2025-06-08,Delivered,UPI,Hyderabad,Uttar Pradesh
+O50834,C1258,2025-10-22,Shipped,COD,Delhi,Maharashtra
+O50835,C1239,2025-03-25,Delivered,Net Banking,Mumbai,Tamil Nadu
+O50836,C1150,2025-10-08,Shipped,Credit Card,Noida,Uttar Pradesh
+O50837,C1029,2025-09-21,Shipped,COD,Chennai,Uttar Pradesh
+O50838,C1000,2025-11-26,Delivered,Credit Card,Kolkata,Gujarat
+O50839,C1061,2025-03-03,Delivered,UPI,Bengaluru,Haryana
+O50840,C1129,2025-09-19,Returned,COD,Noida,Uttar Pradesh
+O50841,C1223,2025-12-08,Delivered,COD,Pune,Gujarat
+O50842,C1136,2025-10-06,Delivered,Credit Card,Ahmedabad,Uttar Pradesh
+O50843,C1006,2025-03-10,Cancelled,Debit Card,Gurugram,Maharashtra
+O50844,C1063,2025-10-28,Cancelled,UPI,Noida,Delhi
+O50845,C1293,2025-02-09,Delivered,Net Banking,Noida,Tamil Nadu
+O50846,C1296,2025-08-03,Delivered,Net Banking,Jaipur,Delhi
+O50847,C1113,2025-07-01,Delivered,Net Banking,Noida,Delhi
+O50848,C1241,2025-07-13,Shipped,Debit Card,Hyderabad,Uttar Pradesh
+O50849,C1215,2025-07-09,Delivered,Net Banking,Lucknow,Karnataka
+O50850,C1279,2025-01-12,Delivered,Debit Card,Chennai,Uttar Pradesh
+O50851,C1266,2025-07-05,Delivered,COD,Pune,Tamil Nadu
+O50852,C1188,2025-12-08,Returned,UPI,Gurugram,Maharashtra
+O50853,C1118,2025-06-09,Shipped,Debit Card,Delhi,Telangana
+O50854,C1187,2025-04-12,Delivered,Debit Card,Noida,Gujarat
+O50855,C1095,2025-12-30,Delivered,Debit Card,Lucknow,Haryana
+O50856,C1104,2025-02-06,Returned,UPI,Noida,Tamil Nadu
+O50857,C1182,2025-06-27,Cancelled,Credit Card,Delhi,Rajasthan
+O50858,C1171,2025-07-07,Delivered,COD,Jaipur,Karnataka
+O50859,C1174,2025-06-24,Delivered,UPI,Bengaluru,Uttar Pradesh
+O50860,C1115,2025-12-03,Delivered,Net Banking,Pune,Karnataka
+O50861,C1122,2025-06-03,Delivered,Net Banking,Kolkata,Karnataka
+O50862,C1003,2025-12-22,Delivered,Debit Card,Hyderabad,Gujarat
+O50863,C1180,2025-01-25,Delivered,UPI,Ahmedabad,Tamil Nadu
+O50864,C1172,2025-09-25,Delivered,UPI,Bengaluru,Gujarat
+O50865,C1280,2025-08-05,Shipped,Credit Card,Kolkata,Rajasthan
+O50866,C1151,2025-03-29,Delivered,UPI,Ahmedabad,West Bengal
+O50867,C1140,2025-03-25,Delivered,UPI,Bengaluru,Haryana
+O50868,C1020,2025-09-20,Delivered,UPI,Mumbai,Maharashtra
+O50869,C1059,2025-08-21,Delivered,UPI,Lucknow,Gujarat
+O50870,C1101,2025-08-12,Delivered,COD,Gurugram,Tamil Nadu
+O50871,C1113,2025-01-19,Delivered,Net Banking,Delhi,Maharashtra
+O50872,C1108,2025-08-07,Delivered,UPI,Hyderabad,Maharashtra
+O50873,C1118,2025-12-25,Delivered,Net Banking,Lucknow,Rajasthan
+O50874,C1230,2025-01-07,Cancelled,UPI,Noida,Haryana
+O50875,C1039,2025-06-21,Delivered,Debit Card,Ahmedabad,Uttar Pradesh
+O50876,C1099,2025-06-30,Cancelled,UPI,Jaipur,Rajasthan
+O50877,C1048,2025-11-24,Cancelled,UPI,Lucknow,Maharashtra
+O50878,C1092,2025-04-14,Shipped,UPI,Bengaluru,Rajasthan
+O50879,C1205,2025-06-23,Delivered,Debit Card,Mumbai,Telangana
+O50880,C1014,2025-09-19,Delivered,Debit Card,Hyderabad,Uttar Pradesh
+O50881,C1101,2025-01-23,Delivered,Credit Card,Noida,Telangana
+O50882,C1007,2025-10-20,Delivered,Net Banking,Ahmedabad,Gujarat
+O50883,C1286,2025-10-28,Delivered,Net Banking,Chennai,Gujarat
+O50884,C1218,2025-09-20,Returned,Net Banking,Bengaluru,Haryana
+O50885,C1073,2025-08-25,Delivered,Debit Card,Hyderabad,Uttar Pradesh
+O50886,C1059,2025-09-30,Shipped,Debit Card,Kolkata,West Bengal
+O50887,C1029,2025-10-13,Delivered,Debit Card,Hyderabad,Uttar Pradesh
+O50888,C1141,2025-11-26,Delivered,Credit Card,Ahmedabad,Delhi
+O50889,C1226,2025-06-06,Delivered,Debit Card,Lucknow,Maharashtra
+O50890,C1175,2025-06-16,Delivered,UPI,Lucknow,Delhi
+O50891,C1264,2025-08-21,Delivered,COD,Chennai,Maharashtra
+O50892,C1103,2025-03-12,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50893,C1083,2025-11-09,Delivered,Net Banking,Mumbai,Karnataka
+O50894,C1143,2025-10-09,Delivered,COD,Delhi,Delhi
+O50895,C1060,2025-08-19,Delivered,Debit Card,Pune,Karnataka
+O50896,C1292,2025-04-21,Returned,COD,Ahmedabad,Haryana
+O50897,C1055,2025-05-07,Delivered,Debit Card,Noida,Gujarat
+O50898,C1143,2025-06-08,Delivered,UPI,Hyderabad,Uttar Pradesh
+O50899,C1156,2025-08-30,Delivered,UPI,Gurugram,Rajasthan
+O50900,C1017,2025-10-11,Delivered,UPI,Bengaluru,Karnataka
+O50901,C1140,2025-09-03,Delivered,COD,Noida,Delhi
+O50902,C1136,2025-12-06,Delivered,Debit Card,Kolkata,West Bengal
+O50903,C1077,2025-12-17,Returned,Credit Card,Jaipur,Karnataka
+O50904,C1038,2025-09-15,Delivered,Debit Card,Jaipur,Rajasthan
+O50905,C1013,2025-05-16,Delivered,Credit Card,Kolkata,Tamil Nadu
+O50906,C1002,2025-08-07,Delivered,COD,Gurugram,Rajasthan
+O50907,C1144,2025-06-05,Delivered,COD,Hyderabad,Karnataka
+O50908,C1026,2025-08-18,Delivered,UPI,Noida,Delhi
+O50909,C1287,2025-10-24,Delivered,Net Banking,Pune,Uttar Pradesh
+O50910,C1073,2025-05-15,Delivered,Credit Card,Hyderabad,Karnataka
+O50911,C1195,2025-07-04,Delivered,UPI,Kolkata,Maharashtra
+O50912,C1202,2025-01-17,Shipped,COD,Noida,Rajasthan
+O50913,C1148,2025-09-26,Delivered,UPI,Jaipur,Maharashtra
+O50914,C1265,2025-06-28,Delivered,Credit Card,Bengaluru,Gujarat
+O50915,C1033,2025-06-17,Delivered,UPI,Ahmedabad,Haryana
+O50916,C1070,2025-07-14,Delivered,Debit Card,Hyderabad,Maharashtra
+O50917,C1075,2025-03-20,Delivered,Debit Card,Hyderabad,Rajasthan
+O50918,C1040,2025-08-07,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O50919,C1088,2025-09-29,Returned,UPI,Jaipur,Maharashtra
+O50920,C1093,2025-05-08,Delivered,UPI,Noida,Rajasthan
+O50921,C1229,2025-02-17,Delivered,COD,Hyderabad,Tamil Nadu
+O50922,C1090,2025-05-22,Shipped,COD,Delhi,Rajasthan
+O50923,C1263,2025-03-14,Shipped,COD,Bengaluru,Telangana
+O50924,C1231,2025-05-17,Delivered,Debit Card,Jaipur,Gujarat
+O50925,C1270,2025-08-17,Delivered,Debit Card,Ahmedabad,Gujarat
+O50926,C1031,2025-02-11,Delivered,Net Banking,Mumbai,Uttar Pradesh
+O50927,C1295,2025-09-30,Cancelled,Net Banking,Pune,Uttar Pradesh
+O50928,C1184,2025-03-23,Delivered,Debit Card,Hyderabad,Tamil Nadu
+O50929,C1294,2025-11-23,Cancelled,Credit Card,Pune,Uttar Pradesh
+O50930,C1106,2025-09-25,Delivered,Debit Card,Gurugram,Haryana
+O50931,C1285,2025-04-10,Shipped,UPI,Mumbai,Maharashtra
+O50932,C1176,2025-07-25,Delivered,UPI,Pune,Tamil Nadu
+O50933,C1021,2025-02-10,Delivered,Net Banking,Hyderabad,Karnataka
+O50934,C1123,2025-02-06,Delivered,COD,Lucknow,Gujarat
+O50935,C1041,2025-12-15,Delivered,UPI,Hyderabad,Maharashtra
+O50936,C1282,2025-10-20,Delivered,UPI,Pune,Tamil Nadu
+O50937,C1091,2025-02-26,Delivered,UPI,Chennai,Rajasthan
+O50938,C1066,2025-04-14,Delivered,Net Banking,Jaipur,Uttar Pradesh
+O50939,C1165,2025-03-14,Delivered,Credit Card,Bengaluru,Haryana
+O50940,C1127,2025-05-25,Shipped,Credit Card,Bengaluru,West Bengal
+O50941,C1029,2025-04-17,Cancelled,UPI,Gurugram,Uttar Pradesh
+O50942,C1244,2025-04-30,Delivered,COD,Ahmedabad,Telangana
+O50943,C1253,2025-07-13,Delivered,Debit Card,Ahmedabad,Maharashtra
+O50944,C1222,2025-03-11,Delivered,Net Banking,Gurugram,Uttar Pradesh
+O50945,C1185,2025-11-19,Cancelled,Net Banking,Pune,Rajasthan
+O50946,C1120,2025-09-23,Delivered,UPI,Mumbai,Uttar Pradesh
+O50947,C1162,2025-10-05,Delivered,COD,Lucknow,Gujarat
+O50948,C1156,2025-03-03,Returned,Debit Card,Delhi,Maharashtra
+O50949,C1049,2025-09-16,Returned,Net Banking,Gurugram,West Bengal
+O50950,C1024,2025-11-02,Delivered,Credit Card,Mumbai,Delhi
+O50951,C1075,2025-03-05,Delivered,COD,Hyderabad,Telangana
+O50952,C1136,2025-10-02,Delivered,COD,Gurugram,Delhi
+O50953,C1048,2025-05-11,Shipped,Debit Card,Hyderabad,West Bengal
+O50954,C1032,2025-10-15,Delivered,UPI,Kolkata,Uttar Pradesh
+O50955,C1255,2025-06-24,Delivered,COD,Jaipur,West Bengal
+O50956,C1112,2025-10-20,Delivered,COD,Noida,Gujarat
+O50957,C1175,2025-02-23,Delivered,Debit Card,Noida,Haryana
+O50958,C1157,2025-05-23,Delivered,Debit Card,Noida,Uttar Pradesh
+O50959,C1220,2025-04-10,Delivered,Credit Card,Ahmedabad,Telangana
+O50960,C1221,2025-04-01,Cancelled,UPI,Chennai,West Bengal
+O50961,C1088,2025-04-23,Shipped,COD,Hyderabad,Rajasthan
+O50962,C1254,2025-05-20,Delivered,Debit Card,Jaipur,Tamil Nadu
+O50963,C1111,2025-02-16,Shipped,Credit Card,Chennai,Maharashtra
+O50964,C1250,2025-09-16,Delivered,Net Banking,Gurugram,Tamil Nadu
+O50965,C1121,2025-07-20,Delivered,UPI,Hyderabad,Tamil Nadu
+O50966,C1033,2025-10-30,Delivered,UPI,Kolkata,Gujarat
+O50967,C1228,2025-09-15,Cancelled,Credit Card,Delhi,Karnataka
+O50968,C1009,2025-02-24,Shipped,Debit Card,Chennai,Telangana
+O50969,C1231,2025-01-26,Cancelled,Credit Card,Bengaluru,Telangana
+O50970,C1012,2025-06-04,Cancelled,UPI,Delhi,Uttar Pradesh
+O50971,C1062,2025-06-25,Returned,Credit Card,Mumbai,Uttar Pradesh
+O50972,C1181,2025-03-29,Delivered,Credit Card,Bengaluru,Delhi
+O50973,C1282,2025-10-13,Cancelled,Debit Card,Pune,Tamil Nadu
+O50974,C1122,2025-08-01,Delivered,Debit Card,Mumbai,Karnataka
+O50975,C1036,2025-10-01,Delivered,COD,Chennai,Gujarat
+O50976,C1069,2025-02-09,Delivered,COD,Pune,West Bengal
+O50977,C1268,2025-10-25,Delivered,Credit Card,Bengaluru,Uttar Pradesh
+O50978,C1218,2025-03-17,Delivered,COD,Jaipur,Uttar Pradesh
+O50979,C1030,2025-06-13,Delivered,Debit Card,Noida,Maharashtra
+O50980,C1115,2025-06-10,Delivered,UPI,Pune,Uttar Pradesh
+O50981,C1079,2025-10-27,Delivered,Credit Card,Delhi,Delhi
+O50982,C1053,2025-04-12,Cancelled,Net Banking,Lucknow,Haryana
+O50983,C1253,2025-03-29,Delivered,COD,Gurugram,Delhi
+O50984,C1185,2025-05-04,Delivered,Credit Card,Jaipur,Maharashtra
+O50985,C1053,2025-05-12,Delivered,UPI,Gurugram,Uttar Pradesh
+O50986,C1195,2025-03-08,Delivered,UPI,Mumbai,West Bengal
+O50987,C1124,2025-03-06,Delivered,UPI,Chennai,Karnataka
+O50988,C1018,2025-03-26,Shipped,Net Banking,Jaipur,Uttar Pradesh
+O50989,C1134,2025-06-20,Delivered,Debit Card,Gurugram,Maharashtra
+O50990,C1055,2025-05-06,Delivered,Debit Card,Gurugram,Telangana
+O50991,C1073,2025-05-24,Shipped,Net Banking,Ahmedabad,Maharashtra
+O50992,C1263,2025-09-20,Delivered,COD,Mumbai,West Bengal
+O50993,C1213,2025-03-29,Cancelled,Net Banking,Gurugram,Uttar Pradesh
+O50994,C1040,2025-11-29,Delivered,UPI,Kolkata,Haryana
+O50995,C1255,2025-10-02,Cancelled,Debit Card,Noida,Maharashtra
+O50996,C1172,2025-03-05,Shipped,COD,Ahmedabad,Uttar Pradesh
+O50997,C1262,2025-04-25,Shipped,Net Banking,Ahmedabad,West Bengal
+O50998,C1224,2025-03-08,Delivered,Credit Card,Ahmedabad,Karnataka
+O50999,C1101,2025-04-10,Cancelled,Credit Card,Mumbai,Maharashtra
+O51000,C1160,2025-05-14,Returned,COD,Noida,Haryana
+O51001,C1159,2025-02-17,Delivered,UPI,Bengaluru,Delhi
+O51002,C1215,2025-01-06,Shipped,Debit Card,Pune,Karnataka
+O51003,C1074,2025-06-10,Shipped,UPI,Lucknow,West Bengal
+O51004,C1099,2025-09-13,Delivered,COD,Chennai,Haryana
+O51005,C1073,2025-04-21,Cancelled,UPI,Lucknow,Delhi
+O51006,C1088,2025-11-11,Delivered,UPI,Jaipur,Karnataka
+O51007,C1048,2025-05-15,Delivered,Credit Card,Kolkata,West Bengal
+O51008,C1010,2025-11-25,Delivered,Credit Card,Noida,Maharashtra
+O51009,C1282,2025-03-28,Delivered,Debit Card,Delhi,Maharashtra
+O51010,C1022,2025-07-16,Cancelled,Credit Card,Delhi,Uttar Pradesh
+O51011,C1266,2025-10-06,Delivered,Credit Card,Chennai,West Bengal
+O51012,C1000,2025-01-22,Delivered,Debit Card,Gurugram,Gujarat
+O51013,C1233,2025-12-06,Delivered,Debit Card,Lucknow,Rajasthan
+O51014,C1098,2025-05-14,Delivered,COD,Noida,Telangana
+O51015,C1155,2025-07-01,Shipped,Debit Card,Lucknow,West Bengal
+O51016,C1084,2025-08-18,Cancelled,Debit Card,Kolkata,Maharashtra
+O51017,C1147,2025-08-23,Delivered,Net Banking,Noida,Delhi
+O51018,C1135,2025-01-09,Delivered,UPI,Delhi,Maharashtra
+O51019,C1158,2025-11-13,Delivered,Net Banking,Pune,West Bengal
+O51020,C1117,2025-08-16,Delivered,COD,Pune,Tamil Nadu
+O51021,C1160,2025-12-31,Delivered,Credit Card,Mumbai,Uttar Pradesh
+O51022,C1247,2025-06-22,Delivered,UPI,Hyderabad,Uttar Pradesh
+O51023,C1130,2025-08-12,Delivered,Credit Card,Noida,Haryana
+O51024,C1108,2025-06-10,Delivered,Credit Card,Noida,Delhi
+O51025,C1039,2025-11-21,Delivered,Debit Card,Kolkata,Maharashtra
+O51026,C1107,2025-10-31,Delivered,COD,Lucknow,Gujarat
+O51027,C1037,2025-11-28,Shipped,Debit Card,Mumbai,Rajasthan
+O51028,C1054,2025-07-04,Shipped,UPI,Lucknow,Uttar Pradesh
+O51029,C1285,2025-10-16,Delivered,Credit Card,Pune,Uttar Pradesh
+O51030,C1026,2025-05-11,Shipped,Net Banking,Pune,Telangana
+O51031,C1144,2025-06-18,Cancelled,Credit Card,Noida,Tamil Nadu
+O51032,C1250,2025-10-05,Delivered,Debit Card,Bengaluru,Uttar Pradesh
+O51033,C1285,2025-01-30,Delivered,Net Banking,Bengaluru,Rajasthan
+O51034,C1044,2025-09-17,Delivered,Credit Card,Chennai,Haryana
+O51035,C1049,2025-01-06,Shipped,Net Banking,Noida,Delhi
+O51036,C1111,2025-07-31,Delivered,Credit Card,Gurugram,Tamil Nadu
+O51037,C1166,2025-06-24,Delivered,UPI,Bengaluru,Telangana
+O51038,C1287,2025-06-21,Delivered,Credit Card,Delhi,Uttar Pradesh
+O51039,C1062,2025-06-30,Delivered,Debit Card,Noida,Telangana
+O51040,C1049,2025-06-29,Returned,UPI,Chennai,Telangana
+O51041,C1075,2025-05-29,Delivered,COD,Lucknow,Maharashtra
+O51042,C1262,2025-06-14,Cancelled,Debit Card,Hyderabad,Uttar Pradesh
+O51043,C1009,2025-07-27,Returned,UPI,Noida,Gujarat
+O51044,C1114,2025-10-06,Cancelled,COD,Lucknow,Rajasthan
+O51045,C1035,2025-07-21,Delivered,COD,Hyderabad,Uttar Pradesh
+O51046,C1047,2025-08-23,Shipped,UPI,Kolkata,West Bengal
+O51047,C1275,2025-11-02,Delivered,UPI,Gurugram,Maharashtra
+O51048,C1000,2025-12-28,Delivered,Credit Card,Hyderabad,Karnataka
+O51049,C1096,2025-02-09,Cancelled,Debit Card,Delhi,Gujarat
+O51050,C1274,2025-09-18,Delivered,Net Banking,Chennai,Gujarat
+O51051,C1182,2025-03-24,Delivered,Debit Card,Gurugram,Haryana
+O51052,C1021,2025-03-13,Delivered,Net Banking,Ahmedabad,Maharashtra
+O51053,C1139,2025-10-17,Shipped,UPI,Delhi,Rajasthan
+O51054,C1291,2025-01-26,Delivered,Net Banking,Chennai,Uttar Pradesh
+O51055,C1120,2025-11-06,Delivered,COD,Noida,Delhi
+O51056,C1158,2025-10-09,Cancelled,Debit Card,Kolkata,Gujarat
+O51057,C1159,2025-12-30,Delivered,Debit Card,Bengaluru,Karnataka
+O51058,C1198,2025-09-01,Delivered,Credit Card,Lucknow,Tamil Nadu
+O51059,C1056,2025-11-15,Delivered,COD,Chennai,Delhi
+O51060,C1251,2025-02-13,Returned,UPI,Pune,West Bengal
+O51061,C1296,2025-11-21,Delivered,Credit Card,Noida,West Bengal
+O51062,C1042,2025-02-28,Delivered,UPI,Chennai,Tamil Nadu
+O51063,C1245,2025-04-25,Delivered,COD,Bengaluru,Rajasthan
+O51064,C1245,2025-02-16,Cancelled,Debit Card,Delhi,Uttar Pradesh
+O51065,C1222,2025-05-27,Delivered,COD,Hyderabad,Gujarat
+O51066,C1111,2025-10-01,Delivered,Net Banking,Gurugram,West Bengal
+O51067,C1140,2025-04-08,Returned,Debit Card,Gurugram,Uttar Pradesh
+O51068,C1251,2025-10-28,Delivered,Debit Card,Delhi,West Bengal
+O51069,C1045,2025-08-10,Delivered,Credit Card,Pune,West Bengal
+O51070,C1248,2025-08-18,Delivered,Debit Card,Gurugram,Telangana
+O51071,C1276,2025-12-09,Shipped,Net Banking,Delhi,Rajasthan
+O51072,C1204,2025-06-07,Delivered,COD,Bengaluru,Delhi
+O51073,C1102,2025-05-06,Delivered,Debit Card,Gurugram,Telangana
+O51074,C1167,2025-12-30,Delivered,COD,Noida,Karnataka
+O51075,C1015,2025-07-23,Shipped,COD,Bengaluru,Gujarat
+O51076,C1279,2025-08-13,Shipped,Debit Card,Delhi,Delhi
+O51077,C1102,2025-04-19,Delivered,Debit Card,Lucknow,Tamil Nadu
+O51078,C1017,2025-03-20,Delivered,UPI,Bengaluru,Haryana
+O51079,C1238,2025-03-03,Cancelled,Credit Card,Lucknow,Gujarat
+O51080,C1197,2025-03-23,Delivered,COD,Ahmedabad,Gujarat
+O51081,C1186,2025-03-13,Delivered,UPI,Lucknow,Haryana
+O51082,C1016,2025-09-30,Delivered,Credit Card,Hyderabad,Gujarat
+O51083,C1225,2025-01-22,Delivered,Net Banking,Bengaluru,Karnataka
+O51084,C1191,2025-08-18,Delivered,Credit Card,Kolkata,Uttar Pradesh
+O51085,C1238,2025-12-13,Delivered,COD,Delhi,West Bengal
+O51086,C1248,2025-10-07,Delivered,Net Banking,Ahmedabad,Delhi
+O51087,C1063,2025-05-28,Delivered,UPI,Mumbai,Haryana
+O51088,C1063,2025-01-22,Delivered,Credit Card,Delhi,Maharashtra
+O51089,C1277,2025-11-01,Delivered,Net Banking,Gurugram,Haryana
+O51090,C1159,2025-01-02,Delivered,COD,Gurugram,Uttar Pradesh
+O51091,C1131,2025-09-06,Cancelled,COD,Delhi,Uttar Pradesh
+O51092,C1086,2025-09-02,Delivered,COD,Kolkata,Gujarat
+O51093,C1191,2025-03-12,Shipped,UPI,Noida,Karnataka
+O51094,C1226,2025-09-28,Delivered,Net Banking,Ahmedabad,Haryana
+O51095,C1000,2025-03-06,Shipped,UPI,Bengaluru,Haryana
+O51096,C1165,2025-03-24,Delivered,UPI,Kolkata,Gujarat
+O51097,C1298,2025-10-24,Delivered,Net Banking,Pune,Maharashtra
+O51098,C1084,2025-12-24,Delivered,Debit Card,Noida,Delhi
+O51099,C1084,2025-04-07,Delivered,Net Banking,Gurugram,Maharashtra
+O51100,C1263,2025-12-03,Delivered,COD,Chennai,Karnataka
+O51101,C1018,2025-11-30,Shipped,UPI,Kolkata,Tamil Nadu
+O51102,C1119,2025-10-08,Shipped,Debit Card,Mumbai,Maharashtra
+O51103,C1137,2025-02-21,Delivered,COD,Pune,Uttar Pradesh
+O51104,C1239,2025-04-20,Cancelled,Debit Card,Lucknow,Tamil Nadu
+O51105,C1038,2025-09-05,Shipped,Debit Card,Ahmedabad,Uttar Pradesh
+O51106,C1130,2025-12-31,Cancelled,Debit Card,Pune,Maharashtra
+O51107,C1045,2025-10-25,Delivered,COD,Gurugram,Tamil Nadu
+O51108,C1236,2025-06-03,Delivered,UPI,Mumbai,Maharashtra
+O51109,C1189,2025-03-27,Delivered,COD,Hyderabad,West Bengal
+O51110,C1149,2025-12-17,Delivered,COD,Hyderabad,West Bengal
+O51111,C1117,2025-04-11,Cancelled,COD,Gurugram,Maharashtra
+O51112,C1045,2025-05-05,Delivered,Debit Card,Delhi,Uttar Pradesh
+O51113,C1276,2025-12-19,Delivered,Debit Card,Bengaluru,Gujarat
+O51114,C1194,2025-07-25,Delivered,Credit Card,Jaipur,Gujarat
+O51115,C1095,2025-04-07,Returned,Credit Card,Noida,Haryana
+O51116,C1124,2025-01-02,Delivered,COD,Pune,West Bengal
+O51117,C1217,2025-06-06,Delivered,Debit Card,Noida,Uttar Pradesh
+O51118,C1215,2025-12-26,Cancelled,Net Banking,Gurugram,Uttar Pradesh
+O51119,C1138,2025-06-07,Returned,UPI,Chennai,Uttar Pradesh
+O51120,C1090,2025-09-13,Delivered,Net Banking,Mumbai,Uttar Pradesh
+O51121,C1197,2025-04-03,Shipped,Net Banking,Mumbai,Gujarat
+O51122,C1197,2025-10-11,Cancelled,COD,Lucknow,Karnataka
+O51123,C1179,2025-10-11,Delivered,UPI,Gurugram,Maharashtra
+O51124,C1021,2025-08-11,Shipped,Debit Card,Gurugram,Delhi
+O51125,C1141,2025-10-09,Delivered,Debit Card,Lucknow,West Bengal
+O51126,C1184,2025-07-31,Delivered,Debit Card,Hyderabad,West Bengal
+O51127,C1285,2025-05-19,Delivered,UPI,Delhi,Karnataka
+O51128,C1157,2025-09-27,Delivered,Debit Card,Bengaluru,Rajasthan
+O51129,C1102,2025-11-01,Delivered,Credit Card,Hyderabad,Maharashtra
+O51130,C1166,2025-11-03,Delivered,Net Banking,Mumbai,Telangana
+O51131,C1053,2025-03-19,Delivered,Credit Card,Hyderabad,Maharashtra
+O51132,C1027,2025-09-04,Delivered,Debit Card,Chennai,Telangana
+O51133,C1203,2025-01-02,Delivered,Net Banking,Mumbai,Uttar Pradesh
+O51134,C1295,2025-07-28,Delivered,UPI,Jaipur,Karnataka
+O51135,C1253,2025-07-28,Delivered,Net Banking,Bengaluru,Telangana
+O51136,C1175,2025-05-13,Delivered,Net Banking,Lucknow,Telangana
+O51137,C1012,2025-12-29,Delivered,UPI,Noida,Karnataka
+O51138,C1296,2025-11-19,Cancelled,UPI,Mumbai,Tamil Nadu
+O51139,C1134,2025-01-15,Delivered,COD,Kolkata,Telangana
+O51140,C1086,2025-03-18,Shipped,Credit Card,Ahmedabad,Maharashtra
+O51141,C1267,2025-03-17,Delivered,COD,Gurugram,Haryana
+O51142,C1223,2025-11-24,Shipped,Debit Card,Lucknow,Tamil Nadu
+O51143,C1224,2025-07-09,Returned,Credit Card,Gurugram,Uttar Pradesh
+O51144,C1083,2025-09-24,Cancelled,Credit Card,Pune,Rajasthan
+O51145,C1297,2025-10-23,Delivered,Net Banking,Mumbai,Tamil Nadu
+O51146,C1135,2025-10-08,Delivered,UPI,Bengaluru,Uttar Pradesh
+O51147,C1159,2025-02-02,Delivered,Debit Card,Ahmedabad,Gujarat
+O51148,C1225,2025-02-21,Delivered,Credit Card,Kolkata,Telangana
+O51149,C1197,2025-05-25,Shipped,UPI,Jaipur,Uttar Pradesh
+O51150,C1051,2025-05-04,Returned,Credit Card,Mumbai,Tamil Nadu
+O51151,C1090,2025-09-30,Delivered,Debit Card,Lucknow,Tamil Nadu
+O51152,C1108,2025-02-27,Delivered,Net Banking,Bengaluru,Maharashtra
+O51153,C1284,2025-05-16,Delivered,UPI,Chennai,Gujarat
+O51154,C1214,2025-03-28,Delivered,COD,Kolkata,Gujarat
+O51155,C1109,2025-03-10,Delivered,COD,Chennai,Maharashtra
+O51156,C1220,2025-03-05,Delivered,Net Banking,Chennai,Karnataka
+O51157,C1221,2025-03-13,Shipped,COD,Bengaluru,Haryana
+O51158,C1118,2025-07-25,Delivered,Debit Card,Chennai,Haryana
+O51159,C1120,2025-05-30,Delivered,COD,Ahmedabad,Maharashtra
+O51160,C1268,2025-06-08,Delivered,Net Banking,Pune,Maharashtra
+O51161,C1168,2025-06-24,Cancelled,Debit Card,Hyderabad,Maharashtra
+O51162,C1044,2025-09-28,Delivered,UPI,Gurugram,Uttar Pradesh
+O51163,C1215,2025-11-11,Delivered,Debit Card,Pune,Karnataka
+O51164,C1176,2025-07-12,Delivered,COD,Jaipur,Tamil Nadu
+O51165,C1152,2025-08-23,Delivered,COD,Chennai,Maharashtra
+O51166,C1217,2025-09-27,Delivered,Debit Card,Gurugram,Telangana
+O51167,C1272,2025-09-09,Delivered,Credit Card,Hyderabad,Maharashtra
+O51168,C1099,2025-02-19,Delivered,Net Banking,Jaipur,West Bengal
+O51169,C1125,2025-12-25,Cancelled,UPI,Noida,Tamil Nadu
+O51170,C1056,2025-03-02,Delivered,UPI,Delhi,Uttar Pradesh
+O51171,C1194,2025-05-31,Delivered,Debit Card,Pune,Delhi
+O51172,C1120,2025-08-27,Delivered,COD,Chennai,Gujarat
+O51173,C1102,2025-05-28,Returned,Credit Card,Mumbai,Maharashtra
+O51174,C1208,2025-03-30,Returned,Debit Card,Jaipur,Delhi
+O51175,C1122,2025-12-04,Shipped,Credit Card,Ahmedabad,West Bengal
+O51176,C1139,2025-01-27,Delivered,Debit Card,Hyderabad,Haryana
+O51177,C1132,2025-03-31,Delivered,UPI,Pune,Haryana
+O51178,C1077,2025-12-29,Shipped,Debit Card,Delhi,Uttar Pradesh
+O51179,C1037,2025-09-24,Shipped,Debit Card,Jaipur,Haryana
+O51180,C1248,2025-02-01,Delivered,Credit Card,Ahmedabad,Telangana
+O51181,C1027,2025-10-03,Delivered,Credit Card,Bengaluru,Haryana
+O51182,C1097,2025-12-20,Delivered,Net Banking,Hyderabad,Uttar Pradesh
+O51183,C1200,2025-02-05,Shipped,UPI,Jaipur,Delhi
+O51184,C1039,2025-06-01,Delivered,UPI,Kolkata,Delhi
+O51185,C1196,2025-06-20,Delivered,UPI,Noida,Karnataka
+O51186,C1219,2025-02-17,Delivered,COD,Kolkata,Karnataka
+O51187,C1198,2025-03-15,Delivered,Credit Card,Lucknow,Delhi
+O51188,C1091,2025-03-05,Delivered,UPI,Jaipur,Maharashtra
+O51189,C1005,2025-03-09,Delivered,COD,Bengaluru,Maharashtra
+O51190,C1266,2025-05-28,Shipped,UPI,Hyderabad,Telangana
+O51191,C1097,2025-06-19,Delivered,Credit Card,Mumbai,Uttar Pradesh
+O51192,C1241,2025-03-28,Delivered,UPI,Chennai,West Bengal
+O51193,C1059,2025-04-16,Delivered,Net Banking,Gurugram,Uttar Pradesh
+O51194,C1048,2025-03-12,Delivered,Net Banking,Pune,Haryana
+O51195,C1233,2025-10-18,Delivered,Net Banking,Mumbai,Haryana
+O51196,C1281,2025-03-19,Delivered,Credit Card,Pune,Rajasthan
+O51197,C1258,2025-11-28,Delivered,Credit Card,Pune,Maharashtra
+O51198,C1225,2025-07-16,Shipped,COD,Delhi,Gujarat
+O51199,C1074,2025-10-20,Delivered,COD,Kolkata,Karnataka
+O50020,C1261,2025-10-08,Delivered,COD,Mumbai,Karnataka

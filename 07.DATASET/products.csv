@@ -1,0 +1,13 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price
+P2001,Wireless Mouse,Electronics,Computer Accessories,Logitech,1200.0,750
+P2002,Bluetooth Speaker,Electronics,Audio,JBL,3500.0,2300
+P2003,Office Chair,Furniture,Chairs,GreenSoul,8500.0,6000
+P2004,Mechanical Keyboard,Electronics,Computer Accessories,Redragon,4200.0,2800
+P2005,USB-C Hub,Electronics,Accessories,Anker,,1800
+P2006,Laptop Stand,Furniture,Office Accessories,Portronics,1800.0,1100
+P2007,Running Shoes,Fashion,Footwear,Nike,6500.0,4200
+P2008,Backpack,Fashion,Bags,Skybags,2400.0,1500
+P2009,Smart Watch,Electronics,Wearables,Noise,5000.0,-100
+P2010,Water Bottle,Home,Kitchen,Milton,900.0,500
+P2011,Coffee Maker,Home,Kitchen,Philips,6200.0,4000
+P2012,Desk Lamp,Home,Lighting,Wipro,1600.0,900
