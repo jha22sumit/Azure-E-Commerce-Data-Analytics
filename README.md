@@ -48,22 +48,22 @@ The project processes five major E-Commerce datasets:
 
 The project uses five E-Commerce datasets.
 
-# 👥 Customers
+- 👥 Customers
 
 
-# 📦 Products
-
-
-
-# 🛒 Orders
+-📦 Products
 
 
 
-# 🧾 Order Items
+-🛒 Orders
 
 
 
-# 💳 Payments
+-🧾 Order Items
+
+
+
+-💳 Payments
 
 
 
@@ -415,6 +415,7 @@ The dashboard helps answer the following questions:
 🏆 Which products generate the highest sales?
 
 👥 Which customers generate the highest revenue?
+
 🏷️ Which categories perform best?
 
 📍 Which states generate the highest sales?
@@ -469,21 +470,7 @@ This project demonstrates practical knowledge of:
 ---
 
 
-# 💡 Business Insights
 
-The project enables analysis of:
-
-- 💰 Sales Performance
-- 📈 Profitability
-- 📦 Product Performance
-- 🏆 Top Products
-- 👥 Customer Performance
-- 📍 Geographic Sales
-- 📅 Monthly Trends
-- 🛒 Order Performance
-- 🏷️ Category Performance
-
----
 
 # 🚀 Final Project Flow
 
