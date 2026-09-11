@@ -48,7 +48,7 @@ The project processes five major E-Commerce datasets:
 
 The project uses five E-Commerce datasets.
 
-- 👥 Customers
+-👥 Customers
 
 
 -📦 Products
