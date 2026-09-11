@@ -48,22 +48,22 @@ The project processes five major E-Commerce datasets:
 
 The project uses five E-Commerce datasets.
 
-## 👥 Customers
+# 👥 Customers
 
 
-## 📦 Products
-
-
-
-## 🛒 Orders
+# 📦 Products
 
 
 
-## 🧾 Order Items
+# 🛒 Orders
 
 
 
-## 💳 Payments
+# 🧾 Order Items
+
+
+
+# 💳 Payments
 
 
 
@@ -395,7 +395,34 @@ The final business-ready data was visualized using Power BI.
 
 
 ---
+# 🎯 Key Business Questions Answered
 
+The dashboard helps answer the following questions:
+
+```text
+💰 What are the total sales?
+
+📈 What is the total profit?
+
+📊 What is the profit margin?
+
+🛒 How many orders were placed?
+
+👥 How many customers made purchases?
+
+📅 How are sales changing over time?
+
+🏆 Which products generate the highest sales?
+
+👥 Which customers generate the highest revenue?
+🏷️ Which categories perform best?
+
+📍 Which states generate the highest sales?
+
+📦 What is the order status distribution?
+```
+
+---
 
 
 # 🛠️ Technology Stack
